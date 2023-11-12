@@ -7,139 +7,139 @@ As the opinion on which words should be in such lists varies between culture, la
  - filename is the isocode of the country 
  - **utf-8** encoded
  - one expression per line.
- - all words contained in the Englisch "*en*" file are excluded in the other language files.
- - often used words were the classification as a profane word is doubtful there is a separate csv file
+ - all words contained in the English "*en*" file are excluded in the other language files.
+ - often used words where the classification as a profane word is doubtful there is a separate csv file
  - csv-file "*questionable_international_words.csv*" 
  - separator is the comma "**,**"
- - 152 words for several languages
- - the header line contains the iso-code of the language, a classification column and remark column.
+ - 152 words for several languages (see table below)
+ - the header line contains the iso-code of the language, a classification column, and a remark column.
  - these words are **NOT** included in the language-files.
 #### Languages Files Overview
 | Name               	| Isocode|
 | ----------------------| ----------------- 
 | [Afrikaans](data/af)		| af |
 | [Albanian](data/sq) 		| sq |
-| [Arabic](data/ar)          | ar |
-| [Armenian](data/hy)	    | hy |
-| [Basque](data/eu) 			| eu |
-| [Belorussian](data/be)		| be |
+| [Arabic](data/ar)     | ar |
+| [Armenian](data/hy)	  | hy |
+| [Basque](data/eu) 			 | eu |
+| [Belorussian](data/be)| be |
 | [Bulgarian](data/bg)		| bg |
-| [Burmese](data/my)			| my |
-| [Catalan](data/ca)			| ca |
-| [Cebu](data/ceb)			| ceb|
-| [Chinese](data/zh)         | zh |
-| [Croatian](data/hr)		| hr |
-| [Czech](data/cs)           | cs |
-| [Danish](data/da)          | da |
-| [Dutch](data/nl)           | nl |
-| [English](data/en)         | en |
-| [Esperanto](data/eo)       | eo |
-| [Estonian](data/et)		| et |
-| [Filipino](data/fil)       | fil|
-| [Finnish](data/fi)         | fi |
-| [French](data/fr)          | fr |
-| [Gaelic](data/gd)  		| gd |
-| [Galician](data/gl)		| gl |
-| [German](data/de)          | de |
-| [Greek](data/el)			| el |
-| [Hindi](data/hi)           | hi |
-| [Hungarian](data/hu)       | hu |
+| [Burmese](data/my)			 | my |
+| [Catalan](data/ca)			 | ca |
+| [Cebu](data/ceb)			   | ceb|
+| [Chinese](data/zh)    | zh |
+| [Croatian](data/hr)		 | hr |
+| [Czech](data/cs)      | cs |
+| [Danish](data/da)     | da |
+| [Dutch](data/nl)      | nl |
+| [English](data/en)    | en |
+| [Esperanto](data/eo)  | eo |
+| [Estonian](data/et)		 | et |
+| [Filipino](data/fil)  | fil|
+| [Finnish](data/fi)    | fi |
+| [French](data/fr)     | fr |
+| [Gaelic](data/gd)  	 	| gd |
+| [Galician](data/gl)	 	| gl |
+| [German](data/de)     | de |
+| [Greek](data/el)			   | el |
+| [Hindi](data/hi)      | hi |
+| [Hungarian](data/hu)  | hu |
 | [Icelandic](data/is)		| is |
-| [Italian](data/it)         | it |
-| [Indonesian](data/id)		| id |
-| [Japanese](data/ja)        | ja |
-| [Kabyle](data/kab)         | kab|
+| [Italian](data/it)    | it |
+| [Indonesian](data/id)	| id |
+| [Japanese](data/ja)   | ja |
+| [Kabyle](data/kab)    | kab|
 | [Kambodsha](data/kh)		| kh |
-| [Klingon](data/tlh)        | tlh|
-| [Korean](data/ko)          | ko |
-| [Latin](data/la)			| la |
-| [Latvian](data/lv)			| lv |
-| [Lithuanian](data/lt)		| lt |
-| [Macedonian](data/mk)		| mk |
-| [Malay](data/ms)			| ms |
+| [Klingon](data/tlh)   | tlh|
+| [Korean](data/ko)     | ko |
+| [Latin](data/la)			   | la |
+| [Latvian](data/lv)			 | lv |
+| [Lithuanian](data/lt)	| lt |
+| [Macedonian](data/mk)	| mk |
+| [Malay](data/ms)			   | ms |
 | [Malayalam](data/ml)		| ml |
-| [Maltese](data/mt)			| mt |
-| [Maori](data/mi)			| mi |
-| [Marathi](data/mr)			| mr |
+| [Maltese](data/mt)			 | mt |
+| [Maori](data/mi)			   | mi |
+| [Marathi](data/mr)			 | mr |
 | [Mongolian](data/mn)		| mn |
-| [Norwegian](data/no)       | no |
-| [Persian](data/fa)         | fa |
-| [Polish](data/pl)          | pl |
-| [Portuguese](data/pt)      | pt |
-| [Romanian](data/ro)		| ro |
-| [Russian](data/ru)         | ru |
-| [Samoan](data/sm)			| sm |
-| [Serbian](data/sr)			| sr |
-| [Slovak](data/sk)			| sk |
-| [Slovene](data/sl)			| sl |
-| [Spanish](data/es)         | es |
-| [Swedish](data/sv)         | sv |
-| [Tamil](data/ta)			| ta |
-| [Telugu](data/te)			| te |
-| [Tetum](data/tet)			| tet|
-| [Thai](data/th)            | th |
-| [Tongan](data/to)			| to |
-| [Turkish](data/tr)			| tr |
+| [Norwegian](data/no)  | no |
+| [Persian](data/fa)    | fa |
+| [Polish](data/pl)     | pl |
+| [Portuguese](data/pt) | pt |
+| [Romanian](data/ro)		 | ro |
+| [Russian](data/ru)    | ru |
+| [Samoan](data/sm)			  | sm |
+| [Serbian](data/sr)			 | sr |
+| [Slovak](data/sk)			  | sk |
+| [Slovene](data/sl)			 | sl |
+| [Spanish](data/es)    | es |
+| [Swedish](data/sv)    | sv |
+| [Tamil](data/ta)			   | ta |
+| [Telugu](data/te)			  | te |
+| [Tetum](data/tet)			  | tet|
+| [Thai](data/th)       | th |
+| [Tongan](data/to)			  | to |
+| [Turkish](data/tr)			 | tr |
 | [Ukrainian](data/uk)		| uk |
-| [Uzbek](data/uz)			| uz |
-| [Vietnamese](data/vi)		| vi |
-| [Welsh](data/cy)			| cy |
-| [Zulu](data/zu)			| zu |
-| [???](data/pih)			| pih|
-| [???](data/piy)			| piy|
-| [???](data/rop)			| rop|
-#### Description of *questionable_international_words.csv*"
+| [Uzbek](data/uz)			   | uz |
+| [Vietnamese](data/vi) | vi |
+| [Welsh](data/cy)			   | cy |
+| [Zulu](data/zu)			    | zu |
+| [???](data/pih)			    | pih|
+| [???](data/piy)			    | piy|
+| [???](data/rop)			    | rop|
+#### Description of *questionable_international_words.csv*
 ##### Languages
 | Name               	| Isocode|
 | ----------------------| ----------------- 
 | [Afrikaans](data/af)		| af |
 | [Albanian](data/sq) 		| sq |
-| [Armenian](data/hy)	    | hy |
+| [Armenian](data/hy)	  | hy |
 | [Bulgarian](data/bg)		| bg |
-| [Catalan](data/ca)			| ca |
-| [Chinese](data/zh)         | zh |
-| [Croatian](data/hr)		| hr |
-| [Czech](data/cs)           | cs |
-| [Danish](data/da)          | da |
-| [Dutch](data/nl)           | nl |
-| [English](data/en)         | en |
-| [Estonian](data/et)		| et |
-| [Filipino](data/fil)       | fil|
-| [Finnish](data/fi)         | fi |
-| [French](data/fr)          | fr |
-| [German](data/de)          | de |
-| [Greek](data/el)			| el |
-| [Hindi](data/hi)           | hi |
-| [Hungarian](data/hu)       | hu |
+| [Catalan](data/ca)			 | ca |
+| [Chinese](data/zh)    | zh |
+| [Croatian](data/hr)	 	| hr |
+| [Czech](data/cs)      | cs |
+| [Danish](data/da)     | da |
+| [Dutch](data/nl)      | nl |
+| [English](data/en)    | en |
+| [Estonian](data/et)		 | et |
+| [Filipino](data/fil)  | fil|
+| [Finnish](data/fi)    | fi |
+| [French](data/fr)     | fr |
+| [German](data/de)     | de |
+| [Greek](data/el)			   | el |
+| [Hindi](data/hi)      | hi |
+| [Hungarian](data/hu)  | hu |
 | [Icelandic](data/is)		| is |
-| [Italian](data/it)         | it |
-| [Indonesian](data/id)		| id |
-| [Japanese](data/ja)        | ja |
-| [Korean](data/ko)          | ko |
-| [Latvian](data/lv)			| lv |
-| [Lithuanian](data/lt)		| lt |
-| [Malay](data/ms)			| ms |
+| [Italian](data/it)    | it |
+| [Indonesian](data/id)	| id |
+| [Japanese](data/ja)   | ja |
+| [Korean](data/ko)     | ko |
+| [Latvian](data/lv)			 | lv |
+| [Lithuanian](data/lt)	| lt |
+| [Malay](data/ms)			   | ms |
 | [Malayalam](data/ml)		| ml |
-| [Maltese](data/mt)			| mt |
-| [Maori](data/mi)			| mi |
-| [Marathi](data/mr)			| mr |
-| [Norwegian](data/no)       | no |
-| [Polish](data/pl)          | pl |
-| [Portuguese](data/pt)      | pt |
-| [Romanian](data/ro)		| ro |
-| [Russian](data/ru)         | ru |
-| [Samoan](data/sm)			| sm |
-| [Serbian](data/sr)			| sr_k, sr_l |
-| [Slovak](data/sk)			| sk |
-| [Slovene](data/sl)			| sl |
-| [Spanish](data/es)         | es |
-| [Swedish](data/sv)         | sv |
-| [Telugu](data/te)			| te |
-| [Thai](data/th)            | th |
-| [Turkish](data/tr)			| tr |
+| [Maltese](data/mt)			 | mt |
+| [Maori](data/mi)			   | mi |
+| [Marathi](data/mr)			 | mr |
+| [Norwegian](data/no)  | no |
+| [Polish](data/pl)     | pl |
+| [Portuguese](data/pt) | pt |
+| [Romanian](data/ro)		 | ro |
+| [Russian](data/ru)    | ru |
+| [Samoan](data/sm)			  | sm |
+| [Serbian](data/sr)			 | sr_k, sr_l |
+| [Slovak](data/sk)			  | sk |
+| [Slovene](data/sl)			 | sl |
+| [Spanish](data/es)    | es |
+| [Swedish](data/sv)    | sv |
+| [Telugu](data/te)			  | te |
+| [Thai](data/th)       | th |
+| [Turkish](data/tr)			 | tr |
 | [Ukrainian](data/uk)		| uk |
-| [Vietnamese](data/vi)		| vi |
-| [Welsh](data/cy)			| cy |
+| [Vietnamese](data/vi)	| vi |
+| [Welsh](data/cy)			   | cy |
 ##### Categories
 The categories used are:
  - cul: cultural differences
