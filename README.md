@@ -2,8 +2,10 @@
 > # [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words_V2](https://github.com/LDNOOBWV2/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words_V2#list-of-dirty-naughty-obscene-and-otherwise-bad-words_v2)
 
 This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around on the web (and many not maintained) their content was crabbed and joined here together (see the source list below). 
+
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs. I hope to be able to collect more words in different languages and even more languages. The lists need reviews from native speakers, as many words are not known by me.
-As the long list of English words shows people got very creative to get around profanity filters, so in my opinion the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
+
+The long list of English words shows people got very creative to get around profanity filters, so in my opinion the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
 #### Structure and Format
  - filename is the isocode of the country 
  - **utf-8** encoded
