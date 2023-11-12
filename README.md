@@ -1,10 +1,10 @@
 > Written with [StackEdit](https://stackedit.io/).
 > # [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words_V2](https://github.com/LDNOOBWV2/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words_V2#list-of-dirty-naughty-obscene-and-otherwise-bad-words_v2)
 
-This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around in the web (and many not maintained) there content was crabbed and joint here together (see the source list below). 
-As the opinion which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs.
+This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around on the web (and many not maintained) their content was crabbed and joined here together (see the source list below). 
+As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs.
 #### Structure and Format
-The files are named by the isocode of the country and are **utf-8** encoded, having one expression per line. All words contained in the Englisch "*en*" file are excluded in the other language files. For often used words were the classification as a profane word is doubtful there is a csv-file "*questionable_international_words.csv*" (separator is the comma "**,**") with 152 words for several languages. The header line contains the iso-code of the language, a classification column and remark column. These words are **NOT** included in the language-files.
+The files are named by the isocode of the country and are **utf-8** encoded, having one expression per line. All words contained in the English "*en*" file are excluded in the other language files. For often-used words where the classification as a profane word is doubtful there is a csv-file "*questionable_international_words.csv*" (separator is the comma "**,**") with 152 words for several languages. The header line contains the iso-code of the language, a classification column, and a remark column. These words are **NOT** included in the language files.
 #### Languages Files Overview
 | Name               	| Isocode|
 | ----------------------| ----------------- 
@@ -19,7 +19,7 @@ The files are named by the isocode of the country and are **utf-8** encoded, hav
 | [Catalan](data/ca)			| ca |
 | [Cebu](data/ceb)			| ceb|
 | [Chinese](data/zh)         | zh |
-| [Croatian]data/(hr)		| hr |
+| [Croatian](data/hr)		| hr |
 | [Czech](data/cs)           | cs |
 | [Danish](data/da)          | da |
 | [Dutch](data/nl)           | nl |
@@ -180,4 +180,3 @@ As mentioned above the LDNOOBW List was the starting point of this work:
  - https://github.com/vandie/isprofanity/tree/master/data
  - https://github.com/words/cuss
  - https://github.com/zacanger/profane-words/blob/master
-
