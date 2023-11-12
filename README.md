@@ -4,7 +4,16 @@
 This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around on the web (and many not maintained) their content was crabbed and joined here together (see the source list below). 
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs.
 #### Structure and Format
-The files are named by the isocode of the country and are **utf-8** encoded, having one expression per line. All words contained in the English "*en*" file are excluded in the other language files. For often-used words where the classification as a profane word is doubtful there is a csv-file "*questionable_international_words.csv*" (separator is the comma "**,**") with 152 words for several languages. The header line contains the iso-code of the language, a classification column, and a remark column. These words are **NOT** included in the language files.
+ - filename is the isocode of the country 
+ - **utf-8** encoded
+ - one expression per line.
+ - all words contained in the Englisch "*en*" file are excluded in the other language files.
+ - often used words were the classification as a profane word is doubtful there is a separate csv file
+ - csv-file "*questionable_international_words.csv*" 
+ - separator is the comma "**,**"
+ - 152 words for several languages
+ - the header line contains the iso-code of the language, a classification column and remark column.
+ - these words are **NOT** included in the language-files.
 #### Languages Files Overview
 | Name               	| Isocode|
 | ----------------------| ----------------- 
