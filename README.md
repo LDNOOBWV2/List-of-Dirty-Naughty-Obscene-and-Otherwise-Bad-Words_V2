@@ -9,128 +9,128 @@ The files are named by the isocode of the country and are **utf-8** encoded, hav
 | Name               	| Isocode|
 | ----------------------| ----------------- 
 | [Afrikaans](data/af)		| af |
-| [Albanian](sq) 		| sq |
-| [Arabic](ar)          | ar |
-| [Armenian](hy)	    | hy |
-| [Basque](eu) 			| eu |
-| [Belorussian](be)		| be |
-| [Bulgarian](bg)		| bg |
-| [Burmese](my)			| my |
-| [Catalan](ca)			| ca |
-| [Cebu](ceb)			| ceb|
-| [Chinese](zh)         | zh |
-| [Croatian](hr)		| hr |
-| [Czech](cs)           | cs |
-| [Danish](da)          | da |
-| [Dutch](nl)           | nl |
-| [English](en)         | en |
-| [Esperanto](eo)       | eo |
-| [Estonian](et)		| et |
-| [Filipino](fil)       | fil|
-| [Finnish](fi)         | fi |
-| [French](fr)          | fr |
-| [Gaelic](gd)  		| gd |
-| [Galician](gl)		| gl |
-| [German](de)          | de |
-| [Greek](el)			| el |
-| [Hindi](hi)           | hi |
-| [Hungarian](hu)       | hu |
-| [Icelandic](is)		| is |
-| [Italian](it)         | it |
-| [Indonesian](id)		| id |
-| [Japanese](ja)        | ja |
-| [Kabyle](kab)         | kab|
-| [Kambodsha](kh)		| kh |
-| [Klingon](tlh)        | tlh|
-| [Korean](ko)          | ko |
-| [Latin](la)			| la |
-| [Latvian](lv)			| lv |
-| [Lithuanian](lt)		| lt |
-| [Macedonian](mk)		| mk |
-| [Malay](ms)			| ms |
-| [Malayalam](ml)		| ml |
-| [Maltese](mt)			| mt |
-| [Maori](mi)			| mi |
-| [Marathi](mr)			| mr |
-| [Mongolian](mn)		| mn |
-| [Norwegian](no)       | no |
-| [Persian](fa)         | fa |
-| [Polish](pl)          | pl |
-| [Portuguese](pt)      | pt |
-| [Romanian](ro)		| ro |
-| [Russian](ru)         | ru |
-| [Samoan](sm)			| sm |
-| [Serbian](sr)			| sr |
-| [Slovak](sk)			| sk |
-| [Slovene](sl)			| sl |
-| [Spanish](es)         | es |
-| [Swedish](sv)         | sv |
-| [Tamil](ta)			| ta |
-| [Telugu](te)			| te |
-| [Tetum](tet)			| tet|
-| [Thai](th)            | th |
-| [Tongan](to)			| to |
-| [Turkish](tr)			| tr |
-| [Ukrainian](uk)		| uk |
-| [Uzbek](uz)			| uz |
-| [Vietnamese](vi)		| vi |
-| [Welsh](cy)			| cy |
-| [Zulu](zu)			| zu |
-| [???](pih)			| pih|
-| [???](piy)			| piy|
-| [???](rop)			| rop|
+| [Albanian](data/sq) 		| sq |
+| [Arabic](data/ar)          | ar |
+| [Armenian](data/hy)	    | hy |
+| [Basque](data/eu) 			| eu |
+| [Belorussian](data/be)		| be |
+| [Bulgarian](data/bg)		| bg |
+| [Burmese](data/my)			| my |
+| [Catalan](data/ca)			| ca |
+| [Cebu](data/ceb)			| ceb|
+| [Chinese](data/zh)         | zh |
+| [Croatian]data/(hr)		| hr |
+| [Czech](data/cs)           | cs |
+| [Danish](data/da)          | da |
+| [Dutch](data/nl)           | nl |
+| [English](data/en)         | en |
+| [Esperanto](data/eo)       | eo |
+| [Estonian](data/et)		| et |
+| [Filipino](data/fil)       | fil|
+| [Finnish](data/fi)         | fi |
+| [French](data/fr)          | fr |
+| [Gaelic](data/gd)  		| gd |
+| [Galician](data/gl)		| gl |
+| [German](data/de)          | de |
+| [Greek](data/el)			| el |
+| [Hindi](data/hi)           | hi |
+| [Hungarian](data/hu)       | hu |
+| [Icelandic](data/is)		| is |
+| [Italian](data/it)         | it |
+| [Indonesian](data/id)		| id |
+| [Japanese](data/ja)        | ja |
+| [Kabyle](data/kab)         | kab|
+| [Kambodsha](data/kh)		| kh |
+| [Klingon](data/tlh)        | tlh|
+| [Korean](data/ko)          | ko |
+| [Latin](data/la)			| la |
+| [Latvian](data/lv)			| lv |
+| [Lithuanian](data/lt)		| lt |
+| [Macedonian](data/mk)		| mk |
+| [Malay](data/ms)			| ms |
+| [Malayalam](data/ml)		| ml |
+| [Maltese](data/mt)			| mt |
+| [Maori](data/mi)			| mi |
+| [Marathi](data/mr)			| mr |
+| [Mongolian](data/mn)		| mn |
+| [Norwegian](data/no)       | no |
+| [Persian](data/fa)         | fa |
+| [Polish](data/pl)          | pl |
+| [Portuguese](data/pt)      | pt |
+| [Romanian](data/ro)		| ro |
+| [Russian](data/ru)         | ru |
+| [Samoan](data/sm)			| sm |
+| [Serbian](data/sr)			| sr |
+| [Slovak](data/sk)			| sk |
+| [Slovene](data/sl)			| sl |
+| [Spanish](data/es)         | es |
+| [Swedish](data/sv)         | sv |
+| [Tamil](data/ta)			| ta |
+| [Telugu](data/te)			| te |
+| [Tetum](data/tet)			| tet|
+| [Thai](data/th)            | th |
+| [Tongan](data/to)			| to |
+| [Turkish](data/tr)			| tr |
+| [Ukrainian](data/uk)		| uk |
+| [Uzbek](data/uz)			| uz |
+| [Vietnamese](data/vi)		| vi |
+| [Welsh](data/cy)			| cy |
+| [Zulu](data/zu)			| zu |
+| [???](data/pih)			| pih|
+| [???](data/piy)			| piy|
+| [???](data/rop)			| rop|
 #### Description of *questionable_international_words.csv*"
 ##### Languages
 | Name               	| Isocode|
 | ----------------------| ----------------- 
-| [Afrikaans](af)		| af |
-| [Albanian](sq) 		| sq |
-| [Armenian](hy)	    | hy |
-| [Bulgarian](bg)		| bg |
-| [Catalan](ca)			| ca |
-| [Chinese](zh)         | zh |
-| [Croatian](hr)		| hr |
-| [Czech](cs)           | cs |
-| [Danish](da)          | da |
-| [Dutch](nl)           | nl |
-| [English](en)         | en |
-| [Estonian](et)		| et |
-| [Filipino](fil)       | fil|
-| [Finnish](fi)         | fi |
-| [French](fr)          | fr |
-| [German](de)          | de |
-| [Greek](el)			| el |
-| [Hindi](hi)           | hi |
-| [Hungarian](hu)       | hu |
-| [Icelandic](is)		| is |
-| [Italian](it)         | it |
-| [Indonesian](id)		| id |
-| [Japanese](ja)        | ja |
-| [Korean](ko)          | ko |
-| [Latvian](lv)			| lv |
-| [Lithuanian](lt)		| lt |
-| [Malay](ms)			| ms |
-| [Malayalam](ml)		| ml |
-| [Maltese](mt)			| mt |
-| [Maori](mi)			| mi |
-| [Marathi](mr)			| mr |
-| [Norwegian](no)       | no |
-| [Polish](pl)          | pl |
-| [Portuguese](pt)      | pt |
-| [Romanian](ro)		| ro |
-| [Russian](ru)         | ru |
-| [Samoan](sm)			| sm |
-| [Serbian](sr)			| sr_k, sr_l |
-| [Slovak](sk)			| sk |
-| [Slovene](sl)			| sl |
-| [Spanish](es)         | es |
-| [Swedish](sv)         | sv |
-| [Telugu](te)			| te |
-| [Thai](th)            | th |
-| [Turkish](tr)			| tr |
-| [Ukrainian](uk)		| uk |
-| [Vietnamese](vi)		| vi |
-| [Welsh](cy)			| cy |
+| [Afrikaans](data/af)		| af |
+| [Albanian](data/sq) 		| sq |
+| [Armenian](data/hy)	    | hy |
+| [Bulgarian](data/bg)		| bg |
+| [Catalan](data/ca)			| ca |
+| [Chinese](data/zh)         | zh |
+| [Croatian](data/hr)		| hr |
+| [Czech](data/cs)           | cs |
+| [Danish](data/da)          | da |
+| [Dutch](data/nl)           | nl |
+| [English](data/en)         | en |
+| [Estonian](data/et)		| et |
+| [Filipino](data/fil)       | fil|
+| [Finnish](data/fi)         | fi |
+| [French](data/fr)          | fr |
+| [German](data/de)          | de |
+| [Greek](data/el)			| el |
+| [Hindi](data/hi)           | hi |
+| [Hungarian](data/hu)       | hu |
+| [Icelandic](data/is)		| is |
+| [Italian](data/it)         | it |
+| [Indonesian](data/id)		| id |
+| [Japanese](data/ja)        | ja |
+| [Korean](data/ko)          | ko |
+| [Latvian](data/lv)			| lv |
+| [Lithuanian](data/lt)		| lt |
+| [Malay](data/ms)			| ms |
+| [Malayalam](data/ml)		| ml |
+| [Maltese](data/mt)			| mt |
+| [Maori](data/mi)			| mi |
+| [Marathi](data/mr)			| mr |
+| [Norwegian](data/no)       | no |
+| [Polish](data/pl)          | pl |
+| [Portuguese](data/pt)      | pt |
+| [Romanian](data/ro)		| ro |
+| [Russian](data/ru)         | ru |
+| [Samoan](data/sm)			| sm |
+| [Serbian](data/sr)			| sr_k, sr_l |
+| [Slovak](data/sk)			| sk |
+| [Slovene](data/sl)			| sl |
+| [Spanish](data/es)         | es |
+| [Swedish](data/sv)         | sv |
+| [Telugu](data/te)			| te |
+| [Thai](data/th)            | th |
+| [Turkish](data/tr)			| tr |
+| [Ukrainian](data/uk)		| uk |
+| [Vietnamese](data/vi)		| vi |
+| [Welsh](data/cy)			| cy |
 ##### Categories
 The categories used are:
  - cul: cultural differences
@@ -142,10 +142,10 @@ The categories used are:
  - rel: religious
  - so: sexual orientation
  - vm: various meanings
- This is just an ad hoc classification were several expressions can be in different categories.
+ This is just an ad hoc classification where several expressions can be in different categories.
 
 #### Sources of words
-As mentioned above the LDNOOBW List was the start point of this work:
+As mentioned above the LDNOOBW List was the starting point of this work:
  - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
  - https://github.com/alvations/expletives/tree/master/data
  - https://github.com/amirshnll/persian-swear-words
