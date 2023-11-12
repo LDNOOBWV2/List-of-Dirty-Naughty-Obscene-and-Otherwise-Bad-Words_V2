@@ -5,8 +5,8 @@ This list of words is a follow-up and extension of the Shutterstock [List-of-Dir
 ###
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs. I hope to be able to collect more words in different languages and even more languages. The lists need reviews from native speakers, as many words are not known by me.
 ###
-The long list of English words shows people got very creative to get around profanity filters, so in my opinion the best way to use theses hard coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
-The next TODO will be to create some regular expressions for often used spelling variations.
+The long list of English words shows people got very creative to get around profanity filters, so in my opinion, the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
+The next TODO will be to create some regular expressions for often-used spelling variations.
 #### Structure and Format
  - filename is the isocode of the country 
  - **utf-8** encoded
