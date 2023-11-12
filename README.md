@@ -15,7 +15,7 @@ As the opinion on which words should be in such lists varies between culture, la
  - the header line contains the iso-code of the language, a classification column, and a remark column.
  - these words are **NOT** included in the language-files.
 #### Languages Files Overview
-| Name               	| Isocode|
+| Name               	  | Isocode|         
 | ----------------------| ----------------- 
 | [Afrikaans](data/af)		| af |
 | [Albanian](data/sq) 		| sq |
