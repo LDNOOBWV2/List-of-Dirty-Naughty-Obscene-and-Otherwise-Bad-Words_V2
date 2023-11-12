@@ -8,7 +8,7 @@ The files are named by the isocode of the country and are **utf-8** encoded, hav
 #### Languages Files Overview
 | Name               	| Isocode|
 | ----------------------| ----------------- 
-| [Afrikaans](af)		| af |
+| [Afrikaans](data/af)		| af |
 | [Albanian](sq) 		| sq |
 | [Arabic](ar)          | ar |
 | [Armenian](hy)	    | hy |
