@@ -6,14 +6,14 @@ As the opinion on which words should be in such lists varies between culture, la
 #### Structure and Format
  - filename is the isocode of the country 
  - **utf-8** encoded
- - one expression per line.
- - all words contained in the English "*en*" file are excluded in the other language files.
+ - one expression per line
+ - all words contained in the English "*en*" file are excluded in the other language files
  - often used words where the classification as a profane word is doubtful there is a separate csv file
  - csv-file "*questionable_international_words.csv*" 
  - separator is the comma "**,**"
  - 152 words for several languages (see table below)
- - the header line contains the iso-code of the language, a classification column, and a remark column.
- - these words are **NOT** included in the language-files.
+ - the header line contains the iso-code of the language, a classification column, and a remark column
+ - these words are **NOT** included in the language-files
 #### Languages Files Overview
 | Name               	  | Isocode|         
 | ----------------------| ----------------- 
