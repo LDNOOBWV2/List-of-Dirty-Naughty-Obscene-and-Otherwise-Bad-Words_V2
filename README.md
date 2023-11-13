@@ -37,8 +37,8 @@ language | count | filename | in csv-file | remark
  [Croatian](data/hr)	   | 115	| hr |	Y|
  [Czech](data/cs)		     | 187	| cs |	Y|
  [Danish](data/da)		    | 127	| da |	Y|
- [Dutch](data/nl)		     | 312	| nl |	Y|
- [English](data/en)		   |8198	| en |	Y| various spelling variations
+ [Dutch](data/nl)		     |1099	| nl |	Y|
+ [English](data/en)		   |8053	| en |	Y| various spelling variations
  [Esperanto](data/eo)	  |  37	| eo |	N|
  [Estonian](data/et)	   | 114	| et |	Y|
  [Filipino](data/fil)	  | 103	| fil|	Y|
@@ -73,7 +73,7 @@ language | count | filename | in csv-file | remark
  [Polish](data/pl)		    |8862	| pl |	Y| different grammatical variations
  [Portuguese](data/pt) 	| 412	| pt |	Y|
  [Romanian](data/ro)  	 | 134	| ro |	Y|
- [Russian](data/ru)	   	|4775	| ru |	Y|
+ [Russian](data/ru)	   	|4761	| ru |	Y|
  [Samoan](data/sm)		    |  15	| sm |	Y|
  [Serbian](data/sr)	   	| 142	| sr |	Y|
  [Slovak](data/sk)		    | 139	| sk |	Y|
@@ -83,7 +83,7 @@ language | count | filename | in csv-file | remark
  [Tamil](data/ta)	     	|  48	| ta |	N|
  [Telugu](data/te)		    | 112	| te |	Y|
  [Tetum](data/tet)		    |   6	| tet|	N|
- [Thai](data/th)	      	|1577	| th |	Y|
+ [Thai](data/th)	      	|1581	| th |	Y|
  [Tongan](data/to)	    	|  15	| to |	N|
  [Turkish](data/tr)	   	| 230	| tr |	Y|
  [Ukrainian](data/uk)	  |  91	| uk |	Y|
