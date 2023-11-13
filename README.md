@@ -86,7 +86,7 @@ language | count | filename | in csv-file | remark
  [Turkish](data/tr)	   	| 230	| tr |	Y|
  [Ukrainian](data/uk)	  |  91	| uk |	Y|
  [Uzbek](data/uz)	     	| 113	| uz |	N|
- [Vietnamese](data/vi)	 | 538	| vi |	Y|
+ [Vietnamese](data/vi)	 | 537	| vi |	Y|
  [Welsh](data/cy)		     | 174	| cy |	Y|
  [Zulu](data/zu)	      	| 137	| zu |	N|
  [???](data/pih)	      	|  17	| pih|	N|
