@@ -81,7 +81,7 @@ language | count | filename | in csv-file | remark
  [Tamil](data/ta)	     	|  48	| ta |	N|
  [Telugu](data/te)		    | 112	| te |	Y|
  [Tetum](data/tet)		    |   6	| tet|	N|
- [Thai](data/th)	      	|1581	| th |	Y|
+ [Thai](data/th)	      	|1577	| th |	Y|
  [Tongan](data/to)	    	|  15	| to |	N|
  [Turkish](data/tr)	   	| 230	| tr |	Y|
  [Ukrainian](data/uk)	  |  91	| uk |	Y|
