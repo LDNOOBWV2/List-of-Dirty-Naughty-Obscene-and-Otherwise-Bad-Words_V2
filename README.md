@@ -19,6 +19,10 @@ The next TODO will be to create some regular expressions for often-used spelling
  - the header line contains the iso-code of the language, a classification column, and a remark column
  - these words are **NOT** included in the language-files
 #### Languages Files Overview
+Language | Stopword count | Filename | in csv file
+--- | --- | --- | ---
+Language | #words | isocode | Y
+
 | Name               	  | Isocode|         
 | ----------------------| ----------------- 
 | [Afrikaans](data/af)		| af |
