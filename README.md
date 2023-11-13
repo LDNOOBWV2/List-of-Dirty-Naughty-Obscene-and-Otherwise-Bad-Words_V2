@@ -71,7 +71,7 @@ language | count | filename | in csv-file | remark
  [Polish](data/pl)		    |8862	| pl |	Y| different grammatical variations
  [Portuguese](data/pt) 	| 412	| pt |	Y|
  [Romanian](data/ro)  	 | 134	| ro |	Y|
- [Russian](data/ru)	   	|4761	| ru |	Y|
+ [Russian](data/ru)	   	|4333	| ru |	Y|
  [Samoan](data/sm)		    |  15	| sm |	Y|
  [Serbian](data/sr)	   	| 142	| sr |	Y|
  [Slovak](data/sk)		    | 139	| sk |	Y|
