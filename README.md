@@ -95,15 +95,15 @@ language | count | filename | in csv-file | remark
  
 #### Categories in *questionable_international_words.csv*
 The categories used are:
- - cul: cultural differences
- - dm: drugs & medicine
- - his: historical 
- - leg: Legislative term
- - mab: medical, anatomic, biological term
- - pol: political
- - rel: religious
- - so: sexual orientation
- - vm: various meanings
+ - **cul**: cultural differences
+ - **dm**: drugs & medicine
+ - **his**: historical 
+ - **leg**: Legislative term
+ - **mab**: medical, anatomic, biological term
+ - **pol**: political
+ - **rel**: religious
+ - **so**: sexual orientation
+ - **vm**: various meanings
  This is just an ad hoc classification where several expressions can be in different categories.
 
 #### Sources of words
