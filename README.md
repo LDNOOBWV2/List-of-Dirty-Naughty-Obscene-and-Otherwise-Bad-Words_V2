@@ -67,7 +67,7 @@ language | count | filename | in csv-file | remark
  [Marathi](data/mr)	   	|  95	| mr |	Y|
  [Mongolian](data/mn)	  | 133	| mn |	N|
  [Norwegian](data/no)  	|  37	| no |	Y|
- [Persian](data/fa)	   	| 163	| fa |	N|
+ [Persian](data/fa)	   	| 527	| fa |	N|
  [Polish](data/pl)		    |8862	| pl |	Y| different grammatical variations
  [Portuguese](data/pt) 	| 412	| pt |	Y|
  [Romanian](data/ro)  	 | 134	| ro |	Y|
