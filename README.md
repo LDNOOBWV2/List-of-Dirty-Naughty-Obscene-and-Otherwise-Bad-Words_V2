@@ -25,6 +25,7 @@ language | count | filename | in csv-file | remark
  [Albanian](data/sq) 	  | 122	| sq |	Y|
  [Arabic](data/ar)		    | 443	| ar |	N|
  [Armenian](data/hy)	   | 106	| hy |	Y|
+ [Australian Kriol](data/rop)	|  12	| rop|	N|
  [Basque](data/eu)		    | 137	| eu |	N|
  [Belorussian](data/be)	| 118	| be |	N|
  [Bulgarian](data/bg)	  | 115	| bg |	Y|
@@ -91,7 +92,6 @@ language | count | filename | in csv-file | remark
  [Zulu](data/zu)	      	| 137	| zu |	N|
  [???](data/pih)	      	|  17	| pih|	N|
  [???](data/piy)	      	|  15	| piy|	N|
- [???](data/rop)	      	|  12	| rop|	N|
  
 ### Categories in *questionable_international_words.csv*
 The categories used are:
