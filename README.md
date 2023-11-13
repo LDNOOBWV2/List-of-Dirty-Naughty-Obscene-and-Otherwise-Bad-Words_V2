@@ -44,7 +44,7 @@ language | count | filename | in csv-file | remark
  [French](data/fr)		    |3194	| fr |	Y| many spelling variations
  [Gaelic](data/gd)		    | 132	| gd |	N|
  [Galician](data/gl)	   | 129	| gl |	N|
- [German](data/de)		    | 160	| de |	Y|
+ [German](data/de)		    | 373	| de |	Y|
  [Greek](data/el)		     |  86	| el |	Y|
  [Hindi](data/hi)		     | 250	| hi |	Y|
  [Hungarian](data/hu)	  | 213	| hu |	Y|
