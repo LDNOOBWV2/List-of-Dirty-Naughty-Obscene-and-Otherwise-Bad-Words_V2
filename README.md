@@ -23,6 +23,7 @@ language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
  [Afrikaans](data/af)	  |  86	| af |	Y|
  [Albanian](data/sq) 	  | 122	| sq |	Y|
+ [Amharic](data/am)     |  22 | am | N|
  [Arabic](data/ar)		    | 443	| ar |	N|
  [Armenian](data/hy)	   | 106	| hy |	Y|
  [Australian Kriol](data/rop)	|  12	| rop|	N|
