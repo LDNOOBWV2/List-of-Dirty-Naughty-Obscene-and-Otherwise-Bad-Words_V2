@@ -79,8 +79,8 @@ language | count | filename | in csv-file | remark
  [Spanish](data/es)		   |1127	| es |	Y|
  [Swedish](data/sv)	   	| 160	| sv |	Y|
  [Tamil](data/ta)	     	|  48	| ta |	N|
- [Telugu](data/te)		    |   6	| te |	Y|
- [Tetum](data/tet)		    | 112	| tet|	N|
+ [Telugu](data/te)		    | 112	| te |	Y|
+ [Tetum](data/tet)		    |   6	| tet|	N|
  [Thai](data/th)	      	|1581	| th |	Y|
  [Tongan](data/to)	    	|  15	| to |	N|
  [Turkish](data/tr)	   	| 230	| tr |	Y|
