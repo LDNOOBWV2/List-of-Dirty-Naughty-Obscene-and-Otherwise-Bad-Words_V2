@@ -7,7 +7,7 @@ As the opinion on which words should be in such lists varies between culture, la
 ###
 The long list of English words shows people got very creative to get around profanity filters, so in my opinion, the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
 The next TODO will be to create some regular expressions for often-used spelling variations.
-#### Structure and Format
+### Structure and Format
  - filename is the isocode of the country 
  - **utf-8** encoded
  - one expression per line
@@ -18,7 +18,7 @@ The next TODO will be to create some regular expressions for often-used spelling
  - 152 words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column, and a remark column
  - these words are **NOT** included in the language-files
-#### Languages Files Overview
+### Languages Files Overview
 language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
  [Afrikaans](data/af)	  |  86	| af |	Y|
@@ -93,7 +93,7 @@ language | count | filename | in csv-file | remark
  [???](data/piy)	      	|  15	| piy|	N|
  [???](data/rop)	      	|  12	| rop|	N|
  
-#### Categories in *questionable_international_words.csv*
+### Categories in *questionable_international_words.csv*
 The categories used are:
  - **cul**: cultural differences
  - **dm**: drugs & medicine
@@ -106,7 +106,7 @@ The categories used are:
  - **vm**: various meanings
  This is just an ad hoc classification where several expressions can be in different categories.
 
-#### Sources of words
+### Sources of Words
 As mentioned above the LDNOOBW List was the starting point of this work:
  - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
 
