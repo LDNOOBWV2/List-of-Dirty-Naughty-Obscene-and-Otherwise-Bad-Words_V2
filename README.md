@@ -39,7 +39,7 @@ language | count | filename | in csv-file | remark
  [English](data/en)		   |8198	| en |	Y| various spelling variations
  [Esperanto](data/eo)	  |  37	| eo |	N|
  [Estonian](data/et)	   | 114	| et |	Y|
- [Filipino](data/fil)	  | 212	| fil|	Y|
+ [Filipino](data/fil)	  | 103	| fil|	Y|
  [Finnish](data/fi)		   |  14	| fi |	Y|
  [French](data/fr)		    |3194	| fr |	Y| many spelling variations
  [Gaelic](data/gd)		    | 132	| gd |	N|
