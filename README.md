@@ -36,7 +36,7 @@ language | count | filename | in csv-file | remark
  [Czech](data/cs)		     | 187	| cs |	Y|
  [Danish](data/da)		    | 127	| da |	Y|
  [Dutch](data/nl)		     | 312	| nl |	Y|
- [English](data/en)		   |8053	| en |	Y| various spelling variations
+ [English](data/en)		   |7837	| en |	Y| various spelling variations
  [Esperanto](data/eo)	  |  37	| eo |	N|
  [Estonian](data/et)	   | 114	| et |	Y|
  [Filipino](data/fil)	  | 212	| fil|	Y|
