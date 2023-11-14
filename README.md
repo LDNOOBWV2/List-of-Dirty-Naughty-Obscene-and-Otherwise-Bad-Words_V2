@@ -106,5 +106,5 @@ The categories used are:
  - **rel**: religious
  - **so**: sexual orientation
  - **vm**: various meanings
-
+###
  This is just an ad hoc classification where several expressions can be in different categories.
