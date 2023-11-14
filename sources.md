@@ -1,5 +1,5 @@
 ## Sources of Words
-As mentioned above the LDNOOBW List was the starting point of this work:
+As mentioned in [README.md](README.md) the LDNOOBW List was the starting point of this work:
  - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
 
  - https://github.com/2Toad/Profanity/blob/master/src/data
