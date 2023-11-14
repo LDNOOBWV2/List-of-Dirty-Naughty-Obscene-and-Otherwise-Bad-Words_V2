@@ -24,7 +24,6 @@ As mentioned in [README.md](README.md) the LDNOOBW List was the starting point o
  - https://github.com/darwiin/french-badwords-list/blob/master/dist
  - https://github.com/datatips/google-profanity-words
  - https://github.com/devXprite/profanity-cleaner/blob/main/src
- - https://github.com/devXprite/profanity-cleaner/blob/main/src
  - https://github.com/dnozza/profanity-obfuscation/blob/main/resources
  - https://github.com/dsojevic/profanity-list/blob/main
  - https://github.com/elsowiny/badwordsfilter/blob/master/src
@@ -36,8 +35,6 @@ As mentioned in [README.md](README.md) the LDNOOBW List was the starting point o
  - https://github.com/kcmspare/bad-words/tree/master/lists
  - https://github.com/mauricebutler/badwords/blob/master
  - https://github.com/mmguero/cleanvid/blob/main/src/cleanvid
- - https://github.com/mmguero/monkeyplug/blob/main/src/monkeyplug
- - https://github.com/mmguero/montag/tree/main/src/montag_cleaner
  - https://github.com/modos/persian-swear-words-js-package/blob/main
  - https://github.com/mrmrvls/sinhala-bad-words-list
  - https://github.com/pcpratheesh/go-censorword/blob/main/censor
