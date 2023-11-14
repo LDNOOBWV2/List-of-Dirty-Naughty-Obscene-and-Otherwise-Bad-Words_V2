@@ -8,8 +8,9 @@ As the opinion on which words should be in such lists varies between culture, la
 The long list of English words shows people got very creative to get around profanity filters, so in my opinion, the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
 The next TODO will be to create some regular expressions for often-used spelling variations.
 ### Structure and Format
- - filename is the isocode of the country 
+ - filename is the **iso-code** of the country 
  - **utf-8** encoded
+ - all words are **lowercase**
  - one expression per line
  - all words contained in the English "*en*" file are excluded in the other language files
  - often used words where the classification as a profane word is doubtful there is a separate csv file
