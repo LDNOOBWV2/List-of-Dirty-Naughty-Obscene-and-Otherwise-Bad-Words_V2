@@ -19,7 +19,7 @@ The next TODO will be to create some regular expressions for often-used spelling
  - often used words where the classification as a profane word is doubtful there is a separate csv file
  - the csv-file is: "*questionable_international_words.csv*" 
  - separator is the comma "**,**"
- - 152 words for several languages (see table below)
+ - **152** words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column, and a remark column
  - these words are **NOT** included in the language-files
 ### Languages Files Overview
@@ -79,7 +79,7 @@ language | count | filename | in csv-file | remark
  [Romanian](data/ro)  	 | 134	| ro |	Y|
  [Russian](data/ru)	   	|4761	| ru |	Y|
  [Samoan](data/sm)		    |  15	| sm |	Y|
- [Serbian](data/sr)	   	| 142	| sr |	Y|
+ [Serbian](data/sr)	   	| 142	| sr |	Y| sr_k & sr_l in csv file
  [Slovak](data/sk)		    | 139	| sk |	Y|
  [Slovene](data/sl)		   | 108	| sl |	Y|
  [Spanish](data/es)		   |1127	| es |	Y|
