@@ -3,19 +3,23 @@
 ### 
 This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around on the web (and many not maintained) their content was crabbed and joined here together (see the source list below). 
 ###
-As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs. I hope to be able to collect more words in different languages and even more languages. The lists need reviews from native speakers, as many words are not known by me.
+As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs, hopefully getting a lot of feedback.
 ###
-The long list of English words shows people got very creative to get around profanity filters, so in my opinion, the best way to use these hard-coded word lists is as an additional (of many) criteria for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set.
+The lists need reviews from native speakers. It would be great to collect more words and even get more languages (**72** right now).
+###
+The long list of English words shows that people got very creative to get around profanity filters. The best way to use these hard-coded word lists is to use them as an additional quality criterion for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set, or use them for ML building profanity filters.
+###
 The next TODO will be to create some regular expressions for often-used spelling variations.
 ### Structure and Format
- - filename is the isocode of the country 
+ - filename is the **iso-code** of the country 
  - **utf-8** encoded
+ - all words are **lowercase**
  - one expression per line
  - all words contained in the English "*en*" file are excluded in the other language files
  - often used words where the classification as a profane word is doubtful there is a separate csv file
  - the csv-file is: "*questionable_international_words.csv*" 
  - separator is the comma "**,**"
- - 152 words for several languages (see table below)
+ - **152** words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column, and a remark column
  - these words are **NOT** included in the language-files
 ### Languages Files Overview
@@ -75,7 +79,7 @@ language | count | filename | in csv-file | remark
  [Romanian](data/ro)  	 | 134	| ro |	Y|
  [Russian](data/ru)	   	|4761	| ru |	Y|
  [Samoan](data/sm)		    |  15	| sm |	Y|
- [Serbian](data/sr)	   	| 142	| sr |	Y|
+ [Serbian](data/sr)	   	| 142	| sr |	Y| sr_k & sr_l in csv file
  [Slovak](data/sk)		    | 139	| sk |	Y|
  [Slovene](data/sl)		   | 108	| sl |	Y|
  [Spanish](data/es)		   |1127	| es |	Y|
@@ -105,77 +109,5 @@ The categories used are:
  - **rel**: religious
  - **so**: sexual orientation
  - **vm**: various meanings
+###
  This is just an ad hoc classification where several expressions can be in different categories.
-
-### Sources of Words
-As mentioned above the LDNOOBW List was the starting point of this work:
- - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
-
- - https://github.com/2Toad/Profanity/blob/master/src/data
- - https://github.com/Bruk3/obscenity-filter/blob/main/data
- - https://github.com/DivineOmega/is_offensive/blob/master/resources
- - https://github.com/FriendshipKing/profanity_php/blob/master/languages
- - https://github.com/Gasegamer/super-profanity
- - https://github.com/RobertJGabriel/google-profanity-words-node-module/blob/master/lib
- - https://github.com/TheAdnan/profanity-filter/blob/master
- - https://github.com/Topener/no-profanity/blob/main/lib
- - https://github.com/WillStrohl/dnn-profanity/blob/master/Scripts
- - https://github.com/alvations/expletives/tree/master/data
- - https://github.com/amirshnll/persian-swear-words
- - https://github.com/arandilopez/profanator/tree/master/config/dicts
- - https://github.com/areebbeigh/profanityfilter/blob/master/profanityfilter/data
- - https://github.com/behiwzad/swearify/blob/master/data
- - https://github.com/ben174/profanity/blob/master/profanity/data
- - https://github.com/blue-eyes-vn/vietnamese-offensive-words
- - https://github.com/chennighan/FowlJS/blob/master/dist
- - https://github.com/chucknorris-io/swear-words - Shutterstock list
- - https://github.com/coffee-and-fun/google-profanity-words/tree/main/data
- - https://github.com/darwiin/french-badwords-list/blob/master/dist
- - https://github.com/datatips/google-profanity-words
- - https://github.com/devXprite/profanity-cleaner/blob/main/src
- - https://github.com/devXprite/profanity-cleaner/blob/main/src
- - https://github.com/dnozza/profanity-obfuscation/blob/main/resources
- - https://github.com/dsojevic/profanity-list/blob/main
- - https://github.com/elsowiny/badwordsfilter/blob/master/src
- - https://github.com/etylermoss/swears
- - https://github.com/finnbear/rustrict/blob/master/src
- - https://github.com/gautamkrishnar/profanity-finder.js/blob/master
- - https://github.com/ignaciolarranaga/profane-word-list
- - https://github.com/imm0r/lineage-2-revolution---word-filter-list
- - https://github.com/kcmspare/bad-words/tree/master/lists
- - https://github.com/mauricebutler/badwords/blob/master
- - https://github.com/mmguero/cleanvid/blob/main/src/cleanvid
- - https://github.com/mmguero/cleanvid/blob/main/src/cleanvid
- - https://github.com/mmguero/monkeyplug/blob/main/src/monkeyplug
- - https://github.com/mmguero/montag/tree/main/src/montag_cleaner
- - https://github.com/modos/persian-swear-words-js-package/blob/main
- - https://github.com/mrmrvls/sinhala-bad-words-list
- - https://github.com/pcpratheesh/go-censorword/blob/main/censor
- - https://github.com/pcpratheesh/go-censorword/blob/main/censor
- - https://github.com/pdrhlik/sweary/tree/master/data-raw/swear-word-lists
- - https://github.com/profanitas/abuse/blob/master/abuse
- - https://github.com/reimertz/curse-words/blob/master
- - https://github.com/rodgeraraujo/profanity/blob/main/src/data
- - https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data
- - https://github.com/ruckuus/profane-word-list/blob/main
- - https://github.com/ryan-berdel/bad-words-plus/blob/master/lib
- - https://github.com/s-litvin/swear_words_ru/blob/master
- - https://github.com/seiyria/censor-sensor/blob/master/locales
- - https://github.com/snguyenthanh/better_profanity/blob/master/better_profanity
- - https://github.com/stephenhaunts/ProfanityDetector/blob/main/ProfanityFilter/ProfanityFilter
- - https://github.com/surge-ai/profanity/blob/main
- - https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/lexicons
- - https://github.com/thathurtabit/swears/blob/main/src
- - https://github.com/therohitdas/profanityjs
- - https://github.com/thisandagain/washyourmouthoutwithsoap/tree/develop/data
- - https://github.com/tiaanduplessis/afrikaans-bad-words/blob/master
- - https://github.com/tommasoc80/DALC/blob/master
- - https://github.com/twin/go-away/blob/master
- - https://github.com/tylersustare/dart_bad_words/blob/main/bad_words/lib
- - https://github.com/uncharacteristically/badwordblocker/blob/main
- - https://github.com/valentinh/swear-words - Shutterstock list
- - https://github.com/vandie/isprofanity/tree/master/data
- - https://github.com/words/cuss
- - https://github.com/zacanger/profane-words/blob/master
- - https://www.kaggle.com/datasets/nicapotato/bad-bad-words
- - https://www.thetraveltart.com/german-swear-words-slang-expletives
