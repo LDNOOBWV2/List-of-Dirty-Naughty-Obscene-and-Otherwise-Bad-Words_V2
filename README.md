@@ -3,7 +3,7 @@
 ### 
 This list of words is a follow-up and extension of the Shutterstock [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/tree/master) as that list is not maintained anymore. As there are many profanity word lists around on the web (and many not maintained) their content was crabbed and joined here together (see the source list below). 
 ###
-The files are available in HuggingFace, there you can find them in the [parquet format] (https://huggingface.co/datasets/PeterGraebner/LDNOOBW_V2/tree/refs%2Fconvert%2Fparquet/default/train) as well.
+The files are available in HuggingFace, there you can find them in the [parquet format](https://huggingface.co/datasets/PeterGraebner/LDNOOBW_V2/tree/refs%2Fconvert%2Fparquet/default/train) as well.
 ###
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs, hopefully getting a lot of feedback.
 ###
