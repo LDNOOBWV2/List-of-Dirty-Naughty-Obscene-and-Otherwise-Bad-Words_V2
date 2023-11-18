@@ -24,8 +24,8 @@ The next TODO will be to create some regular expressions for often-used spelling
  - separator is the comma "**,**"
  - **152** words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column (*category*), and a *remark* column
- - these words are **NOT** included in the language-files "***.txt**"
- - when I couldn't find a translation, the field contains the string:**<NO_TRANSLATION>**
+ - these words are **NOT** included in the language-text-files, e.g. "***.txt**"
+ - when I couldn't find a translation, the field contains the string: **<NO_TRANSLATION>**
 ### Languages Files Overview
 language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
