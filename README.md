@@ -39,9 +39,9 @@ language | count | filename | in csv-file | remark
  [Belorussian](data/be.txt)	| 118	| be |	N|
  [Bulgarian](data/bg.txt)	  | 115	| bg |	Y|
  [Burmese](data/my.txt)		   |  52	| my |	N|
- [Cambodian](data/kh.txt) | 132	| kh |	N|
+ [Cambodian](data/kh.txt)   | 132	| kh |	N|
  [Catalan](data/ca.txt)		   |  65	| ca |	Y|
- [Cebu](data/ceb.txt)		     |   7	| ceb|	N|
+ [Cebuano](data/ceb.txt)		  |   7	| ceb|	N|
  [Chinese](data/zh.txt)		   |1173	| zh |	Y|
  [Croatian](data/hr.txt)	   | 115	| hr |	Y|
  [Czech](data/cs.txt)		     | 187	| cs |	Y|
