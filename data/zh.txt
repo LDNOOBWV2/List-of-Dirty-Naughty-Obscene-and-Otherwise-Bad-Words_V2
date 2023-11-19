@@ -1,27 +1,196 @@
 13点
+ai chai
 a書
 a漫
 a片
 a級
+ba po
+baak gwai
+ban jau
+bat po
+bi
+bi zui
+bok lui
 bug回報人員
 b央
-b央  r
+b央 r
 b樣
+cao
+cao ni ma
+cau fah hai
+chao di wang xau zu
+chao hai
+che cong ma chin chin
+che dan
+chee lun seen
+chi bai
+chiang jian
+chuckdeela
+chuk sang dou but yu
+d'iu lay
+d'iu lay low mow
+d'iu ne lo mo
+dai boh mui
+dew nei gor loong
+diao
+dieu lei lo mo
+diew lei
+dil lay lo mo
+ding lei gor fai
+ding lei gor see fut long
+ding nei gaw fye
+dio leo sei lou mei haui
+diu
+diu kao lei geh zhui
+diu la sing
+diu lay lo mo
+diu lay see f-ut
+diu lei goh hai
+diu lei lau mau
+diu lei lo mo
+diu lei lou mou hai
+diu lei low dau
+diu lei low mow goh tsau fa hai
+diu lei tsuen ga
+diu nei lo mo
+diu nei pook gai
+diu nia sing
+do lei lo mo chau hai
+fai chaai
+fei gei cheung
+fei hai
+figh cai
+gaa jai
 game
+gan
+gan ni niang
+gau
+gau si gwai
+go niang yang de
+go se
+gui t'ao
+gun ni ma de dan
+gwan lei lun see ah
 g掰
+hai
+hai yeung
+ham ga fu gwei
+ham ga tsan, puk gai
+ham ka chan
+ham ka ling
+ham lung
+ham sup low
+hoe sei ah nea gor bak chee
 http
+hui sei
+hum ga ch-arm
+hum lun
 h站
+jek chau
+jeng ga can
+ji ba
+ji bai
+ji bai,kanina
+ju tou mo lou
+jue pa
+jur jur
+kai zi
+kakha ma lo se ye
+kao yao
+kauw hai
+knee how kialan
 k仔
 k他命
 k粉
 k藥
+laan hooi
+lan
+lan jiao
+lan tou
+lan yeung
+lau fom pei
+law baak tau
+lay ciew mea
+lei low mow
+lok chat
+lou hai
+lun yeung
+ma la ge bi
+maw law cha
+mok sarm
+mun huw lay go ma
+mung hai
+nai zi
+nang yeung
+nao sheng chao
+nei fei yao chow
+nei go hai yan ho se ah
+ngoh jau yim lei
+ngong hai
+ngong kau
+ni ma de na i
+ni mama gei ren diao
+ni shi shen jiing bing
+nia ma ka chau hai
+nimabi
+now tsan
+ong qin xiang
 pc蛋蛋
+ping ying: chao ni ma de gi ba
+pk
+pok gai
+pootho
+puk gai
+qu ni de
+qu si
+ri ni ge xian ren ban ban
+saat jaw lei
+sawt sawt dei; fat fat dei
+say baht poh
+sei ah nea dor puk gai
+sei ham ga chan, sei puk gai
+sei hoi
+sei law baak tau; sei ga jai
+sei y'un tao
+sei yee m jai
+sek sei
+sek si
+sek sii
+seung sei ah
+sey hai
+sha bi
+sharbie
+shee-aah bee
+sho tao
+si tap pa
+sie gou na
+sie lan thau
+sixi
+sou hai
+t'iu lei
+ta ma de
+te niang de
+tian po
+tian wo dan
+tou ni ma
+tsao dan de
+tsat
+tsat tao
+tsat tou
+tsat, gau, lun
 t幣
-【國家】
-【屏顯】
-【私聊】
-【系統】
-】
+wo cao
+wo cao ni ma bi
+wo cao ni ma de pi guo
+wo kao
+wo ri
+xia bi
+yeem
+yim
+yiu
+yu dam ful
+yuk si mah
+yum tong la
 ㄇㄉ
 ㄊㄇㄉ
 ㄊㄋㄋㄉ
@@ -86,6 +255,7 @@ t幣
 交射臉上
 交靠
 人民幣
+人畜共患病
 人體炸彈
 仆街
 他ㄇ的
@@ -164,6 +334,7 @@ t幣
 公告
 共匪
 共狗
+兽交
 册那
 再奸
 冚家拎
@@ -182,6 +353,9 @@ t幣
 出售神符
 刚度
 刚瘪三
+利己主义
+动物癖
+勃起
 包皮
 北七
 北加
@@ -206,6 +380,8 @@ t幣
 去牠媽
 去祂媽
 双峰微颤
+双性恋
+受 虐 狂
 口交
 口肯
 古柯鹼
@@ -224,6 +400,8 @@ t幣
 吃大便
 吃屎
 后庭
+吞咽
+吮吸
 吸你的屌
 吸你的蛋蛋
 吸我的屌
@@ -246,15 +424,20 @@ t幣
 商城幣
 喇叭
 嗑藥
+嗜血癖
+嗜血者
 噴你
 噴尿
 噴精
 噴精在臉上
+國家
 土共
 坐交
 坐台
 坐台的
 坐莊
+堕胎医生
+堕胎者
 塞你公
 塞你娘
 塞你娘卡好
@@ -288,6 +471,7 @@ t幣
 大麻樹脂
 大麻油
 天天幹
+失声
 女乃
 女昌
 奶
@@ -368,9 +552,11 @@ t幣
 嫖娼
 嫖客
 嫩b
+子宫
 它妈地
 它妈的
 它瑪的
+安博性恋
 安非他命
 完蛋操
 官方
@@ -378,6 +564,7 @@ t幣
 密洞
 密穴
 射你
+射精
 小.*商
 小b
 小gg
@@ -400,6 +587,8 @@ t幣
 就是欠幹
 就是要幹你
 尻
+尿
+尿道
 屁眼
 屁股
 屄
@@ -412,8 +601,11 @@ t幣
 屎你娘
 屎妳娘
 屎忽
+屏顯
 屙
 巨乳
+希特勒
+希特勒万岁
 師濤
 幫我吹喇叭
 干x娘
@@ -494,6 +686,7 @@ t幣
 幹雞
 幹齁你爽
 幼交
+幼虫
 幾8
 底褲
 廣聞
@@ -504,11 +697,14 @@ t幣
 強效失意藥
 強暴
 強殲
+强奸
 强奸你
+强奸犯
 性
 性交
 性交靠
 性免費電影
+性别
 性器
 性愛
 性无能
@@ -521,6 +717,10 @@ t幣
 性虐
 性虐待
 性饑渴
+性高潮
+恋 童 癖
+恋童癖
+恩塔特·昆斯特
 您杯卡好
 您母卡好
 情色
@@ -529,6 +729,7 @@ t幣
 愛液
 愛滋
 愛滋病
+慕男狂
 慶紅
 懆您妈
 懆您娘
@@ -570,11 +771,14 @@ t幣
 我靠
 戳b
 戳爆你的奶
+所多玛
+手淫
 扒光
 打手槍
 打炮
 打飞机
 投毒殺人
+抖
 抽你丫的
 抽插
 拉k
@@ -647,6 +851,8 @@ t幣
 新台幣
 新手指導
 新手指導員
+新纳粹
+旋钮
 日x媽
 日他
 日他娘
@@ -664,12 +870,14 @@ t幣
 智障
 暗陰陽
 有碼
+服
 机八
 机巴
 机机歪歪
 杂种
 杜冷丁
 東亞病夫
+林 奇
 柒
 棒辣椒
 機八
@@ -696,6 +904,8 @@ t幣
 江豬媳
 沒屁眼
 法克
+泛性恋
+流产
 浪叫
 消息
 涵嵐嬌
@@ -718,6 +928,7 @@ t幣
 淫洞
 淫液
 淫濕
+淫秽
 淫穢
 淫穴
 淫荡
@@ -728,6 +939,7 @@ t幣
 淫賤
 淫靡
 淫魔
+渗透
 港幣
 湿透的内裤
 潮吹
@@ -756,9 +968,11 @@ t幣
 牛比
 牛逼
 牠瑪的
+物神
 狂幹
 狂操
 狂操你全家
+狂欢
 狗b
 狗卵
 狗卵子
@@ -780,6 +994,7 @@ t幣
 玉杵
 玉莖
 王八蛋
+玫瑰花结
 瓜娃子
 瓜婆娘
 瓜批
@@ -801,9 +1016,11 @@ t幣
 的娘
 的爺
 盜竊犯
+直立
 睪
 睪丸
 睾
+睾丸
 破處
 破鞋
 硍
@@ -812,23 +1029,29 @@ t幣
 碼的
 祂瑪的
 祖宗
+私
 私-服
-私/服
 私—服
+私刑
 私服
+私生子
+私聊
 私處
 程凱
 程真
 程鐵軍
+穿透
 窮逼
 笨實
 笨屄
+笨拙
 笨蛋
 笨逼
 管理員
 管理者
 粉腸
 粗制嗎啡
+精子
 精液
 糙
 糙你祖宗
@@ -844,6 +1067,7 @@ t幣
 線上gm
 線上客服
 線上管理者
+纳粹
 美女視頻
 群交
 群奸
@@ -857,6 +1081,7 @@ t幣
 老雞排
 老骚比
 老骚货
+肆虐
 肉壁
 肉壺
 肉棍
@@ -872,10 +1097,12 @@ t幣
 肛
 肛交
 肛門
+肛门
 肥西
 胸罩
 腦殘
 腳本
+臀部
 自慰
 自殺手冊
 自殺指南
@@ -898,12 +1125,15 @@ t幣
 舔你的大懶巴
 舔你的大雞巴
 舔我雞巴
+舔阴
 色友
+色情
 色情小電影
 色情服務
 色情網站
 色情電影
 色情靠
+色狼
 花柳
 草你
 草你媽
@@ -930,6 +1160,7 @@ t幣
 藝道
 藝部
 藝門
+虐待狂
 處女
 處女膜
 處男
@@ -938,12 +1169,15 @@ t幣
 蠢豬
 血逼
 行房
+被强奸
 裝屄
 裝逼
 裝逼靠
+西格·海尔
 視奸
 視姦
 覽叫
+角落
 變態
 豬媳
 豬容基
@@ -1015,6 +1249,8 @@ t幣
 輪流幹
 輪盤賭
 轮奸
+轮辋
+迟钝
 迷奸
 迷奸藥
 迷幻藥
@@ -1037,6 +1273,7 @@ t幣
 遲浩田
 遺精
 邢錚
+野蛮
 野鸡
 金吉擺
 金幣
@@ -1048,9 +1285,12 @@ t幣
 阳具
 阳萎
 阴唇
+阴囊
 阴户
 阴核
 阴毛
+阴茎
+阴道
 阴部
 陰唇
 陰囊
@@ -1104,6 +1344,7 @@ t幣
 靠背
 靠腰
 顏射
+饶舌者
 馬的
 馬賣馬屁
 駛你公
@@ -1131,6 +1372,7 @@ t幣
 骚货
 骚逼
 高治聯
+高潮
 高自聯
 高麗棒子
 鬼公
@@ -1144,6 +1386,7 @@ t幣
 鸡八
 鸡叭
 鸡吧
+鸡奸
 鸡巴
 鸡芭
 鸡鸡
