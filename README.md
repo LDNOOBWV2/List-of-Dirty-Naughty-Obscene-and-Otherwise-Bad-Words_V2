@@ -44,12 +44,12 @@ language | count | filename | in csv-file | remark
  [Cambodian](data/kh.txt)   | 132	| kh |	N|
  [Catalan](data/ca.txt)		   | 143	| ca |	Y|
  [Cebuano](data/ceb.txt)		  |  18	| ceb|	N|
- [Chinese](data/zh.txt)		   |1416	| zh |	Y|
+ [Chinese](data/zh.txt)		   |1816	| zh |	Y|
  [Croatian](data/hr.txt)	   | 267	| hr |	Y|
  [Czech](data/cs.txt)		     | 243	| cs |	Y|
  [Danish](data/da.txt)		    | 185	| da |	Y|
  [Dutch](data/nl.txt)		     |1222	| nl |	Y|
- [English](data/en.txt)		   |8146	| en |	Y| various spelling variations
+ [English](data/en.txt)		   |8362	| en |	Y| various spelling variations
  [Esperanto](data/eo.txt)	  |  50	| eo |	N|
  [Estonian](data/et.txt)	   | 174	| et |	Y|
  [Filipino](data/fil.txt)	  | 167	| fil|	Y|
@@ -62,8 +62,8 @@ language | count | filename | in csv-file | remark
  [Hindi](data/hi.txt)		     | 374	| hi |	Y|
  [Hungarian](data/hu.txt)	  | 296	| hu |	Y|
  [Icelandic](data/is.txt)   | 137	| is |	Y|
- [Italian](data/it.txt)		   |1283	| it |	Y|
- [Indonesian](data/id.txt)	 | 292	| id |	Y|
+ [Italian](data/it.txt)		   |1755	| it |	Y|
+ [Indonesian](data/id.txt)	 | 535	| id |	Y|
  [Japanese](data/ja.txt)	   | 466	| ja |	Y| 
  [Jewish](data/yid.txt)	    | 169	| yid|	N|
  [Kabyle](data/kab.txt)	   	|  22	| kab|	N|
@@ -89,7 +89,7 @@ language | count | filename | in csv-file | remark
  [Serbian](data/sr.txt)	   	| 466	| sr |	Y| sr_k & sr_l in csv file
  [Slovak](data/sk.txt)	     | 431	| sk |	Y|
  [Slovene](data/sl.txt)		   | 167	| sl |	Y|
- [Spanish](data/es.txt)		   |1639	| es |	Y| including Middle- and South American
+ [Spanish](data/es.txt)		   |1705	| es |	Y| including Middle- and South American
  [Swedish](data/sv.txt)	   	| 247	| sv |	Y|
  [Tamil](data/ta.txt)	     	| 119	| ta |	N|
  [Telugu](data/te.txt)		    | 317	| te |	Y|
