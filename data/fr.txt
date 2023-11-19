@@ -1,20 +1,14 @@
-!mb3c!l3
-!mb3c!l3"
-!mbec!l3
-!mbec!le
-!mbéc!l3
-!mbéc!le
 1mb3c1l3
 1mbec1l3
 1mbec1le
 1mbéc1l3
 1mbéc1le
-35p!ng0!n
-35p!ngo!n
 35p1ng01n
 35p1ngo1n
 35ping0in
 35pingoin
+35png0n
+35pngon
 3mm3rd3r
 3mm3rd3u53
 3mm3rd3ur
@@ -48,77 +42,77 @@
 3ncul3ur
 3ncule
 3nculé
-3nf0!r3
-3nf0!re
-3nf0!ré
 3nf01r3
 3nf01re
 3nf01ré
 3nf0ir3
 3nf0ire
 3nf0iré
+3nf0r3
+3nf0re
+3nf0ré
 3nflur3
-3nfo!r3
-3nfo!re
-3nfo!ré
 3nfo1r3
 3nfo1re
 3nfo1ré
 3nfoir3
 3nfoire
 3nfoiré
-3nv@53l!n3ur
+3nfor3
+3nfore
+3nforé
 3nv@53l1n3ur
 3nv@53lin3ur
-3nv@s3l!n3ur
+3nv@53ln3ur
 3nv@s3l1n3ur
 3nv@s3lin3ur
-3nva53l!n3ur
+3nv@s3ln3ur
 3nva53l1n3ur
 3nva53lin3ur
-3nvas3l!n3ur
+3nva53ln3ur
 3nvas3l1n3ur
 3nvas3lin3ur
-3p@!5
-3p@!s
+3nvas3ln3ur
 3p@15
 3p@1s
+3p@5
 3p@i5
 3p@is
-3pa!5
-3pa!s
+3p@s
 3pa15
 3pa1s
+3pa5
 3pai5
 3pais
-3sp!ng0!n
-3sp!ngo!n
+3pas
 3sp1ng01n
 3sp1ngo1n
 3sping0in
 3spingoin
+3spng0n
+3spngon
 3tr0n
 3tron
-50tt!53ux
-50tt!5eux
 50tt153ux
 50tt15eux
+50tt53ux
+50tt5eux
 50tti53ux
 50tti5eux
 50u5-m3rd3
 50u5-merde
-53nt-l@-p!553
 53nt-l@-p1553
+53nt-l@-p553
 53nt-l@-pi553
-53nt-la-p!553
 53nt-la-p1553
+53nt-la-p553
 53nt-la-pi553
-5@g0u!n
 5@g0u1n
 5@g0uin
-5@gou!n
+5@g0un
 5@gou1n
 5@gouin
+5@goun
 5@l0p
 5@l0p3
 5@l0p@rd
@@ -130,24 +124,24 @@
 5@lop3
 5@lop@rd
 5@lope
-5@tr0u!ll3
-5@tr0u!lle
 5@tr0u1ll3
 5@tr0u1lle
 5@tr0uill3
 5@tr0uille
-5@trou!ll3
-5@trou!lle
+5@tr0ull3
+5@tr0ulle
 5@trou1ll3
 5@trou1lle
 5@trouill3
 5@trouille
-5ag0u!n
+5@troull3
+5@troulle
 5ag0u1n
 5ag0uin
-5agou!n
+5ag0un
 5agou1n
 5agouin
+5agoun
 5al0p
 5al0p3
 5al0pard
@@ -159,18 +153,18 @@
 5alop3
 5alopard
 5alope
-5atr0u!ll3
-5atr0u!lle
 5atr0u1ll3
 5atr0u1lle
 5atr0uill3
 5atr0uille
-5atrou!ll3
-5atrou!lle
+5atr0ull3
+5atr0ulle
 5atrou1ll3
 5atrou1lle
 5atrouill3
 5atrouille
+5atroull3
+5atroulle
 5chb3b
 5chbeb
 5chl3u
@@ -183,69 +177,71 @@
 5chnock
 5chnoqu3
 5chnoque
-5ent-l@-p!55e
 5ent-l@-p155e
+5ent-l@-p55e
 5ent-l@-pi55e
-5ent-la-p!55e
 5ent-la-p155e
+5ent-la-p55e
 5ent-la-pi55e
-5ott!53ux
-5ott!5eux
 5ott153ux
 5ott15eux
+5ott53ux
+5ott5eux
 5otti53ux
 5otti5eux
 5ou5-m3rd3
 5ou5-merde
-5t3@r!qu3
 5t3@r1qu3
 5t3@riqu3
-5t3ar!qu3
+5t3@rqu3
 5t3ar1qu3
 5t3ariqu3
-5te@r!que
+5t3arqu3
 5te@r1qu3
 5te@r1que
 5te@riqu3
 5te@rique
-5tear!qu3
-5tear!que
+5te@rque
 5tear1qu3
 5tear1que
 5teariqu3
 5tearique
-5té@r!qu3
-5té@r!que
+5tearqu3
+5tearque
 5té@r1qu3
 5té@r1que
 5té@riqu3
 5té@rique
-5téar!qu3
-5téar!que
+5té@rqu3
+5té@rque
 5téar1qu3
 5téar1que
 5téariqu3
 5téarique
-@brut!
+5téarqu3
+5téarque
+@brut
 @brut1
 @bruti
-@nd0u!ll3
-@nd0u!lle
 @nd0u1ll3
 @nd0u1lle
 @nd0uill3
 @nd0uille
-@ndou!ll3
-@ndou!lle
+@nd0ull3
+@nd0ulle
 @ndou1ll3
 @ndou1lle
 @ndouill3
 @ndouille
+@ndoull3
+@ndoulle
 @v0rt0n
 @vorton
-abrut!
+abortuaire
+abrut
 abrut1
 abruti
+acrotomophilie
 aller aux putes
 aller libérer mandela
 aller niquer sa mère
@@ -254,24 +250,27 @@ aller se faire enculer
 aller se faire foutre
 aller se faire mettre
 allez vous faire foutre
-and0u!ll3
-and0u!lle
+ambisexuel
+ambosexuel
 and0u1ll3
 and0u1lle
 and0uill3
 and0uille
-andou!ll3
-andou!lle
+and0ull3
+and0ulle
 andou1ll3
 andou1lle
 andouill3
 andouille
+andoull3
+andoulle
 archifoutre
 arracher
 arriver comme le marquis de couille-verte
 asphalteuse
 astiquer
 av0rt0n
+avale mes couilles grosse pute
 avoir de la chatte
 avoir de la merde dans les yeux
 avoir de la moule
@@ -295,35 +294,13 @@ avoir l’air con
 avoir plein le cul
 avoir un balai dans le cul
 avortement
+avortements
+avorteur
 avorton
-b!@tch
-b!atch
-b!c0t
-b!cot
-b!t3
-b!t3mb0!5
-b!t3mb0!s
-b!t3mbo!5
-b!t3mbo!s
-b!te
-b!temb0!5
-b!temb0!s
-b!tembo!5
-b!tembo!s
 b0rd3l
 b0rdel
 b0uff0n
 b0ugn0ul
-b0ugn0ul!3
-b0ugn0ul!53r
-b0ugn0ul!5@t!0n
-b0ugn0ul!5at!0n
-b0ugn0ul!5er
-b0ugn0ul!e
-b0ugn0ul!s3r
-b0ugn0ul!s@t!0n
-b0ugn0ul!sat!0n
-b0ugn0ul!ser
 b0ugn0ul13
 b0ugn0ul153r
 b0ugn0ul15@t10n
@@ -335,6 +312,10 @@ b0ugn0ul1s@t10n
 b0ugn0ul1sat10n
 b0ugn0ul1ser
 b0ugn0ul3
+b0ugn0ul53r
+b0ugn0ul5@t0n
+b0ugn0ul5at0n
+b0ugn0ul5er
 b0ugn0ule
 b0ugn0uli3
 b0ugn0uli53r
@@ -346,19 +327,23 @@ b0ugn0ulis3r
 b0ugn0ulis@ti0n
 b0ugn0ulisati0n
 b0ugn0uliser
+b0ugn0uls3r
+b0ugn0uls@t0n
+b0ugn0ulsat0n
+b0ugn0ulser
 b0ugr3
 b0ugre
 b0uk@k
 b0ukak
-b0un!0ul
+b0un0ul
 b0un10ul
 b0uni0ul
-b0urd!ll3
-b0urd!lle
 b0urd1ll3
 b0urd1lle
 b0urdill3
 b0urdille
+b0urdll3
+b0urdlle
 b0us3ux
 b0useux
 b1@tch
@@ -378,9 +363,15 @@ b1tembo1s
 b3@uf
 b3auf
 b@t@rd
+b@tch
+bachie coupe
 bagouse
 baisable
 baise
+baise moi
+baise moi mor
+baise tes mort les suceur de bite
+baise toi
 baiser
 baiser comme des lapins
 baiser comme un lapin
@@ -399,15 +390,16 @@ bander comme un âne
 baptême
 bar à putes
 bat
-batard
+batch
 batte
+bc0t
+bcot
 be@uf
 beauf
-bellend
 benzer
 berlingue
+bestialité
 bi@tch
-biatch
 bibite
 bic0t
 bicot
@@ -421,7 +413,6 @@ bit3mb0i5
 bit3mb0is
 bit3mboi5
 bit3mbois
-bitch
 bite
 bitemb0i5
 bitemb0is
@@ -431,14 +422,13 @@ bitte
 bivouaquer dans la crevasse
 biétaze
 bloblos
-bollok
 bolosser
 bombe atomique
+bon ariens
 bon coup
 bonasse
 bonnasse
 bonne
-boob
 bord3l
 bordel
 bordel de merde
@@ -454,16 +444,6 @@ bouffer la chatte
 bouffer le cul
 bouffon
 bougnoul
-bougnoul!3
-bougnoul!53r
-bougnoul!5@t!on
-bougnoul!5at!on
-bougnoul!5er
-bougnoul!e
-bougnoul!s3r
-bougnoul!s@t!on
-bougnoul!sat!on
-bougnoul!ser
 bougnoul13
 bougnoul153r
 bougnoul15@t1on
@@ -475,6 +455,10 @@ bougnoul1s@t1on
 bougnoul1sat1on
 bougnoul1ser
 bougnoul3
+bougnoul53r
+bougnoul5@ton
+bougnoul5aton
+bougnoul5er
 bougnoule
 bougnouli3
 bougnouli53r
@@ -486,21 +470,25 @@ bougnoulis3r
 bougnoulis@tion
 bougnoulisation
 bougnouliser
+bougnouls3r
+bougnouls@ton
+bougnoulsaton
+bougnoulser
 bougr3
 bougre
 bouk@k
 boukak
 boule
-boun!oul
 boun1oul
 bounioul
 bounioule
-bourd!ll3
-bourd!lle
+bounoul
 bourd1ll3
 bourd1lle
 bourdill3
 bourdille
+bourdll3
+bourdlle
 bourrer le mou
 bourriquer
 bourré
@@ -508,15 +496,14 @@ bourrée
 bous3ux
 bouseux
 bout
+boutons
 boyau cullier
-br!53-burn35
-br!5e-burne5
-br!s3-burn3s
-br!se-burnes
 br153-burn35
 br15e-burne5
 br1s3-burn3s
 br1se-burnes
+br53-burn35
+br5e-burne5
 br@nl3r
 br@nl3ur
 br@nler
@@ -534,6 +521,7 @@ branlette
 branlette espagnole
 branlette intellectuelle
 branleur
+branleur de chiens morts
 branleuse
 branlo
 branlotter
@@ -554,11 +542,26 @@ brouter le gazon
 brouter les couilles
 brouteur
 brouteuse
+brs3-burn3s
+brse-burnes
+brã»le en enfer
 brêle
-buceta
-burne
+bt3
+bt3mb05
+bt3mb0s
+bt3mbo5
+bt3mbos
+bte
+btemb05
+btemb0s
+btembo5
+btembos
 bât@rd
+bâtard
 bâton
+c'est des conneries
+c'est quoi ce bordel
+c'est vraiment de ta faute
 c0ch3
 c0che
 c0n
@@ -573,10 +576,10 @@ c0na55e
 c0nard
 c0nass3
 c0nasse
-c0nch!3r
-c0nch!er
 c0nch13r
 c0nch1er
+c0nch3r
+c0ncher
 c0nchi3r
 c0nchier
 c0nn3
@@ -607,42 +610,42 @@ c0uill3
 c0uill3s
 c0uille
 c0uilles
-c0un!fl3
-c0un!fle
 c0un1fl3
 c0un1fle
+c0unfl3
+c0unfle
 c0unifl3
 c0unifle
 c0urt@ud
 c0urtaud
 c@553-b0nb0n
 c@553-bonbon
-c@553-c0u!ll3
-c@553-c0u!ll35
 c@553-c0u1ll3
 c@553-c0u1ll35
 c@553-c0uill3
 c@553-c0uill35
-c@553-cou!ll3
-c@553-cou!ll35
+c@553-c0ull3
+c@553-c0ull35
 c@553-cou1ll3
 c@553-cou1ll35
 c@553-couill3
 c@553-couill35
+c@553-coull3
+c@553-coull35
 c@55e-b0nb0n
 c@55e-bonbon
-c@55e-c0u!lle
-c@55e-c0u!lle5
 c@55e-c0u1lle
 c@55e-c0u1lle5
 c@55e-c0uille
 c@55e-c0uille5
-c@55e-cou!lle
-c@55e-cou!lle5
+c@55e-c0ulle
+c@55e-c0ulle5
 c@55e-cou1lle
 c@55e-cou1lle5
 c@55e-couille
 c@55e-couille5
+c@55e-coulle
+c@55e-coulle5
 c@c0u
 c@cou
 c@fr3
@@ -653,62 +656,64 @@ c@ldoch3
 c@ldoche
 c@ss3-b0nb0n
 c@ss3-bonbon
-c@ss3-c0u!ll3
-c@ss3-c0u!ll3s
 c@ss3-c0u1ll3
 c@ss3-c0u1ll3s
 c@ss3-c0uill3
 c@ss3-c0uill3s
-c@ss3-cou!ll3
-c@ss3-cou!ll3s
+c@ss3-c0ull3
+c@ss3-c0ull3s
 c@ss3-cou1ll3
 c@ss3-cou1ll3s
 c@ss3-couill3
 c@ss3-couill3s
+c@ss3-coull3
+c@ss3-coull3s
 c@sse-b0nb0n
 c@sse-bonbon
-c@sse-c0u!lle
-c@sse-c0u!lles
 c@sse-c0u1lle
 c@sse-c0u1lles
 c@sse-c0uille
 c@sse-c0uilles
-c@sse-cou!lle
-c@sse-cou!lles
+c@sse-c0ulle
+c@sse-c0ulles
 c@sse-cou1lle
 c@sse-cou1lles
 c@sse-couille
 c@sse-couilles
+c@sse-coulle
+c@sse-coulles
+ca fait chier
+ca me fait chier
+ca suce gros temps
 ca553-b0nb0n
 ca553-bonbon
-ca553-c0u!ll3
-ca553-c0u!ll35
 ca553-c0u1ll3
 ca553-c0u1ll35
 ca553-c0uill3
 ca553-c0uill35
-ca553-cou!ll3
-ca553-cou!ll35
+ca553-c0ull3
+ca553-c0ull35
 ca553-cou1ll3
 ca553-cou1ll35
 ca553-couill3
 ca553-couill35
+ca553-coull3
+ca553-coull35
 ca55e-b0nb0n
 ca55e-bonbon
-ca55e-c0u!lle
-ca55e-c0u!lle5
 ca55e-c0u1lle
 ca55e-c0u1lle5
 ca55e-c0uille
 ca55e-c0uille5
-ca55e-cou!lle
-ca55e-cou!lle5
+ca55e-c0ulle
+ca55e-c0ulle5
 ca55e-cou1lle
 ca55e-cou1lle5
 ca55e-couille
 ca55e-couille5
+ca55e-coulle
+ca55e-coulle5
 cac0u
-caca
 cacou
 cafr3
 cafre
@@ -725,59 +730,45 @@ carrer dans l’oignon
 carte de france
 cass3-b0nb0n
 cass3-bonbon
-cass3-c0u!ll3
-cass3-c0u!ll3s
 cass3-c0u1ll3
 cass3-c0u1ll3s
 cass3-c0uill3
 cass3-c0uill3s
-cass3-cou!ll3
-cass3-cou!ll3s
+cass3-c0ull3
+cass3-c0ull3s
 cass3-cou1ll3
 cass3-cou1ll3s
 cass3-couill3
 cass3-couill3s
+cass3-coull3
+cass3-coull3s
+casse toi
 casse-b0nb0n
 casse-bonbon
 casse-burette
-casse-c0u!lle
-casse-c0u!lles
 casse-c0u1lle
 casse-c0u1lles
 casse-c0uille
 casse-c0uilles
-casse-cou!lle
-casse-cou!lles
+casse-c0ulle
+casse-c0ulles
 casse-cou1lle
 casse-cou1lles
 casse-couille
 casse-couilles
+casse-coulle
+casse-coulles
+casse-toi
+casse-toi pauvre con
 casser la gueule
 casser le pot
 casser les boules
 casser les burnes
 casser les couilles
 cerise
-ch!3nn@553
-ch!3nn@ss3
-ch!3nna553
-ch!3nnass3
-ch!3r
-ch!enn@55e
-ch!enn@sse
-ch!enna55e
-ch!ennasse
-ch!er
-ch!n3t0c
-ch!n3t0qu3
-ch!n3toc
-ch!n3toqu3
-ch!net0c
-ch!net0que
-ch!netoc
-ch!netoque
-ch!nt0k
-ch!ntok
+cervelle d'oiseau
+cervelle de moineau
+ch'te harra l'chu
 ch13nn@553
 ch13nn@ss3
 ch13nna553
@@ -802,6 +793,11 @@ ch1netoc
 ch1netoque
 ch1nt0k
 ch1ntok
+ch3nn@553
+ch3nn@ss3
+ch3nna553
+ch3nnass3
+ch3r
 ch@ch@r
 ch@g@553
 ch@g@55e
@@ -823,6 +819,11 @@ chatte
 chattes
 chaude-pisse
 chauffard
+chenn@55e
+chenn@sse
+chenna55e
+chennasse
+cher
 cherche-merde
 chi3nn@553
 chi3nn@ss3
@@ -844,7 +845,6 @@ chiennasse
 chienne
 chiennerie
 chiennes
-chier
 chier comme tout le monde
 chier dans les bottes
 chier dans son froc
@@ -863,7 +863,6 @@ chinetoc
 chinetoque
 chint0k
 chintok
-chiotte
 chiottes
 chié
 chiée
@@ -871,13 +870,23 @@ chl3uh
 chleuh
 chn0qu3
 chn0que
+chn3t0c
+chn3t0qu3
+chn3toc
+chn3toqu3
+chnet0c
+chnet0que
+chnetoc
+chnetoque
 chnoqu3
 chnoque
+chnt0k
+chntok
 choper
 choune
 christ
 ciboire
-cipa
+cibouã¨re
 claque merde
 claque-merde
 clille
@@ -886,9 +895,9 @@ clochard
 coch3
 coche
 cochonneries
+coin
 comme papa dans maman
 comme un chien fout sa merde
-con
 con comme un balai
 con comme un gland
 con comme une bite
@@ -903,10 +912,10 @@ cona55e
 conard
 conass3
 conasse
-conch!3r
-conch!er
 conch13r
 conch1er
+conch3r
+concher
 conchi3r
 conchier
 conn3
@@ -919,7 +928,6 @@ conn@ss3
 conn@sse
 conna553
 conna55e
-connard
 connard3
 connarde
 connards
@@ -927,7 +935,6 @@ connass3
 connasse
 conne
 conneau
-connerie
 cons
 contrecrisser
 convoitise
@@ -943,7 +950,6 @@ cou1llon
 cou1llonner
 couill3
 couill3s
-couille
 couille de loup
 couille molle
 couilles
@@ -952,13 +958,14 @@ couillon
 couillonn3r
 couillonner
 couillu
-coun!fl3
-coun!fle
 coun1fl3
 coun1fle
+counfl3
+counfle
 counifl3
 counifle
 coup de pute
+courageux
 court@ud
 courtaud
 couter la peau des couilles
@@ -966,14 +973,9 @@ couter la peau du cul
 coûter la peau des couilles
 coûter la peau du cul
 coûter une couille
-cr!cr!
 cr0tt3
 cr0tte
 cr0tté
-cr0u!ll3
-cr0u!ll@t
-cr0u!llat
-cr0u!lle
 cr0u1ll3
 cr0u1ll@t
 cr0u1llat
@@ -982,11 +984,15 @@ cr0uill3
 cr0uill@t
 cr0uillat
 cr0uille
+cr0ull3
+cr0ull@t
+cr0ullat
+cr0ulle
 cr0ût0n
 cr1cr1
-cr3t!n
 cr3t1n
 cr3tin
+cr3tn
 cr3v@rd
 cr3vard
 cr3vur3
@@ -995,24 +1001,23 @@ cran
 craquer son slip
 craquer son string
 cravacher le pur-sang
-cret!n
+crcr
 cret1n
-cretin
+cretn
 crev@rd
 crevard
 crevure
 cricri
+criss de fif
 crisse
+crisse de cave
+crisse de tabernak
 crissement
+crock la merde
 crosse
 crosser
 crott3
-crotte
 crotté
-crou!ll3
-crou!ll@t
-crou!llat
-crou!lle
 crou1ll3
 crou1ll@t
 crou1llat
@@ -1021,12 +1026,16 @@ crouill3
 crouill@t
 crouillat
 crouille
+croull3
+croull@t
+croullat
+croulle
+croupe
 croûton
 cruchasse
-crét!n
 crét1n
 crétin
-cul
+crétn
 culasse
 culbuter
 culer
@@ -1039,9 +1048,9 @@ câlisse
 câlisser
 céoène
 c’est de la couille de loup
-d3b!l3
 d3b1l3
 d3bil3
+d3bl3
 d3gu3l@ss3
 d3gu3lass3
 d3m3rd3r
@@ -1050,12 +1059,13 @@ dans ton cul
 de mes couilles
 de mes deux
 de mon vier
-deb!l3
-deb!le
 deb1l3
 deb1le
 debil3
 debile
+debl3
+deble
+decaliss
 deguelasse
 demerder
 demi-molle
@@ -1068,20 +1078,20 @@ djoc
 does
 doeser
 doigter
-dr0u!ll3
-dr0u!lle
 dr0u1ll3
 dr0u1lle
 dr0uill3
 dr0uille
+dr0ull3
+dr0ulle
 drague
 drisser
-drou!ll3
-drou!lle
 drou1ll3
 drou1lle
 drouill3
 drouille
+droull3
+droulle
 du schn0c
 du schnoc
 du5chn0ck
@@ -1099,14 +1109,14 @@ dugl@nd
 dugland
 duschn0ck
 duschnock
-déb!l3
-déb!le
 déb1l3
 déb1le
 débagouler
 débander
 débil3
 débile
+débl3
+déble
 déboiter
 débroussailler la tranchée
 décharger
@@ -1132,12 +1142,12 @@ dépucelage
 dépuceler
 dérouler du câble
 désengorger
-e5p!ng0!n
-e5p!ngo!n
 e5p1ng01n
 e5p1ngo1n
 e5ping0in
 e5pingoin
+e5png0n
+e5pngon
 emballeur de fudge
 emm@nche
 emm@nché
@@ -1180,41 +1190,39 @@ enculage de mouche
 enculage de mouches
 enculailleur
 enculatoire
-encule
 enculement
-enculer
 enculer les mouches
+enculer une mouche
 enculerie
 enculette
 enculeur
 enculeur de mouches
 enculeurs
 enculeuse
+enculã© de mes deux
 enculé
 enculé de ta mère
 enculé de ta race
 enculée
-enf0!re
-enf0!ré
 enf01re
 enf01ré
 enf0ire
 enf0iré
+enf0re
+enf0ré
 enfant de chienne
 enfant de putain
 enfant de pute
 enfer
 enfiler
 enfler
-enflure
-enfo!re
-enfo!ré
 enfo1re
 enfo1ré
-enfoire
 enfoirer
 enfoiré
 enfoirée
+enfore
+enforé
 enfourailler
 enfoutrer
 englander
@@ -1222,41 +1230,45 @@ engrosser
 engueuler
 entre couilles
 entuber
-env@5el!neur
 env@5el1neur
 env@5elineur
-env@sel!neur
+env@5elneur
 env@sel1neur
 env@selineur
-enva5el!neur
+env@selneur
 enva5el1neur
 enva5elineur
-envasel!neur
+enva5elneur
 envasel1neur
 envaselineur
+envaselneur
 envoyer
 envoyer chier
 envulver
-ep@!5
-ep@!s
 ep@15
 ep@1s
+ep@5
 ep@i5
 ep@is
-epa!5
-epa!s
+ep@s
 epa15
 epa1s
+epa5
 epai5
 epais
-esp!ng0!n
-esp!ngo!n
+epas
 esp1ng01n
 esp1ngo1n
 espacer
 esping0in
 espingoin
+espng0n
+espngon
 esque
+esti d'laid
+esti d'mal propre.
+esti de cave
+esti que t'es laid.
 estie
 et mon cul, c’est du poulet
 et ta connerie
@@ -1264,10 +1276,8 @@ etr0n
 etron
 exploser
 exploser le terrier
-f!0tt3
-f!0tte
-f!ott3
-f!otte
+f0tt3
+f0tte
 f0ut3ur
 f0uteur
 f0utr3
@@ -1279,10 +1289,10 @@ f1otte
 f31gn@ss3
 f3ign@ss3
 f3ignass3
+face de cul
 face de pet
+face de t'chu
 faciale
-fagot
-fagots
 faire
 faire chier
 faire chier la bite
@@ -1291,14 +1301,20 @@ faire minette
 faire sa pute
 faire sprinter l’unijambiste
 faire un caca nerveux
+fais chier
+fais chier la bite
+fais chier.
 fan de putain
 fant de pute
+farme ta yeule
 fdp
 fe1gnasse
 feign@sse
 feignasse
+fellation
 fente
 ferme ta gueule
+ferme ta putain de gueule, connard
 fermer sa gueule
 fermer son claque merde
 fermer son claque-merde
@@ -1317,54 +1333,57 @@ fils de chienne
 fils de garce
 fils de putain
 fils de pute
+fils de salope
 fils de ta race
 fils-de-puterie
 filsdeputerie
 fion
 fiott3
 fiotte
-fister
 flûte
 foirade
 folle
+forme woire ta geule
+fott3
+fotte
 foufoune
 foufounette
 fouille-merde
 foune
 fourbir
+foure toi les dans l'chu
 fourrer
+fous le camp
+fous le camps
 fout3ur
 foutage de gueule
 fouteur
 fouteur de merde
 foutoir
 foutr3
-foutre
 foutre en l’air
 foutre la merde
 foutre la paix
 foutre le camp
 foutre sur la gueule
 foutriquer
-fr!tz
 fr1tz
+framble
+frambler
+fripe moi l'chu
+frippe mes balles
 fritz
-fuck
+frtz
 fuck me boots
-fucker
-fuckings
-fum!3r
-fum!er
 fum13r
 fum1er
+fum3r
+fumer
 fumi3r
 fumier
+fétiche
 g0d0n
 g0g0l
-g0u!ll@nd
-g0u!lland
-g0u!n3
-g0u!ne
 g0u1ll@nd
 g0u1lland
 g0u1n3
@@ -1373,20 +1392,24 @@ g0uill@nd
 g0uilland
 g0uin3
 g0uine
+g0ull@nd
+g0ulland
+g0un3
+g0une
 g0urd3
 g0urde
-g0urg@nd!n3
-g0urg@nd!ne
 g0urg@nd1n3
 g0urg@nd1ne
 g0urg@ndin3
 g0urg@ndine
-g0urgand!n3
-g0urgand!ne
+g0urg@ndn3
+g0urg@ndne
 g0urgand1n3
 g0urgand1ne
 g0urgandin3
 g0urgandine
+g0urgandn3
+g0urgandne
 g0ï
 g@rc3
 g@rce
@@ -1402,32 +1425,32 @@ gdm
 gerbe
 gerber
 gl@nd
-gl@nd0u!ll0u
 gl@nd0u1ll0u
 gl@nd0uill0u
+gl@nd0ull0u
 gl@nd3u53
 gl@nd3ur
 gl@nd3us3
 gl@ndeu5e
 gl@ndeur
 gl@ndeuse
-gl@ndou!llou
 gl@ndou1llou
 gl@ndouillou
+gl@ndoullou
 gl@ndu
 gland
-gland0u!ll0u
 gland0u1ll0u
 gland0uill0u
+gland0ull0u
 gland3u53
 gland3ur
 gland3us3
 glandeu5e
 glandeur
 glandeuse
-glandou!llou
 glandou1llou
 glandouillou
+glandoullou
 glandu
 glaoui
 glisser
@@ -1444,10 +1467,6 @@ godes
 godon
 gogol
 gosse
-gou!ll@nd
-gou!lland
-gou!n3
-gou!ne
 gou1ll@nd
 gou1lland
 gou1n3
@@ -1458,21 +1477,25 @@ gouill@nd
 gouilland
 gouin3
 gouine
+goull@nd
+goulland
+goun3
+goune
 gourd3
 gourde
 gourdin
-gourg@nd!n3
-gourg@nd!ne
 gourg@nd1n3
 gourg@nd1ne
 gourg@ndin3
 gourg@ndine
-gourgand!n3
-gourgand!ne
+gourg@ndn3
+gourg@ndne
 gourgand1n3
 gourgand1ne
 gourgandin3
 gourgandine
+gourgandn3
+gourgandne
 gousse
 goï
 gr0gn@553
@@ -1495,20 +1518,20 @@ grognass3
 grognasse
 grogniasse
 gros
+gross cul
+grosse crisse de vache
+grosse dose
+grosse noune
 grouille
-gu!nd0ul3
-gu!nd0ule
-gu!ndoul3
-gu!ndoule
 gu1nd0ul3
 gu1nd0ule
 gu1ndoul3
 gu1ndoule
-gu3n!ch3
 gu3n1ch3
+gu3nch3
 gu3nich3
-guen!che
 guen1che
+guenche
 gueniche
 gueule
 gueuler
@@ -1516,7 +1539,16 @@ guind0ul3
 guind0ule
 guindoul3
 guindoule
-hore
+gund0ul3
+gund0ule
+gundoul3
+gundoule
+hirondelle
+hostie
+hébéphile
+hébéphiles
+hébéphilie
+il est stupide
 imb3cil3
 imbaisable
 imbecil3
@@ -1525,10 +1557,36 @@ imbitabilité
 imbitable
 imbécil3
 imbécile
+inceste
+incestueux
+j'ai baisã© ta mã¨re
+j'ai envie de chier
+j'en ai rien ã branler
+j'en ai rien ã foutre
+j'foure ta mere
+j'va te harrer la face
 j3@n-f0utr3
 j3@n-foutr3
 j3an-f0utr3
 j3an-foutr3
+jante
+je chiee dans le chatte de ta mere
+je m'en bat les couilles
+je me fais chier.
+je me gode
+je peux sentir ta chatte
+je peux violer tu.
+je pis dans ta bouche
+je t'emmerde
+je t'encule
+je te nique ta race
+je te nique ta race sale fils de chien
+je vais niquer ta cerevelle.
+je vais te baiser.
+je veux faire l'amour avec toi
+je veux t'enculer
+je veux violer t.
+je viole tu
 je@n-f0utre
 je@n-foutre
 jean-f0utre
@@ -1536,10 +1594,6 @@ jean-foutre
 joual vert
 jouir
 journalope
-k!k00
-k!k0u
-k!koo
-k!kou
 k1k00
 k1k0u
 k1koo
@@ -1548,9 +1602,12 @@ kik00
 kik0u
 kikoo
 kikou
-kock
+kk00
+kk0u
+kkoo
+kkou
 kr@ut
-kraut
+l'ambisexualité
 l0p3tt3
 l0pette
 l@ch3ux
@@ -1558,61 +1615,33 @@ l@cheux
 l@v3tt3
 l@vette
 la putain de ta mère
+la putain de ta race
 lach3ux
+lache-moi la grappe
 lacheux
+laisse-moi tranquille
 laisser pisser le mérinos
 langue de pute
 latter
 lav3tt3
 lavette
 le con de sa mère
+leche ma chat
 les lèvres
 les seins
+lesbienne
 libérer mandela
 limer
 lop3tt3
 lopette
 luxure
+lynchage
+lyncher
 lâch3ux
 lâcheux
 lèche-cul
 lécher le cul
 l’avoir dans le cul
-m!53r@bl3
-m!53rabl3
-m!5er@ble
-m!5erabl3
-m!5erable
-m!5ér@bl3
-m!5ér@ble
-m!5érabl3
-m!5érable
-m!cht0
-m!chto
-m!n@bl3
-m!n@ble
-m!nabl3
-m!nable
-m!nu5
-m!nus
-m!s3r@bl3
-m!s3rabl3
-m!ser@bl3
-m!ser@ble
-m!serabl3
-m!serable
-m!sér@bl3
-m!sér@ble
-m!sérabl3
-m!sérable
-m0!n5-qu3-r!3n
-m0!n5-que-r!en
-m0!n@!ll3
-m0!n@!lle
-m0!na!ll3
-m0!na!lle
-m0!ns-qu3-r!3n
-m0!ns-que-r!en
 m01n5-qu3-r13n
 m01n5-que-r1en
 m01n@1ll3
@@ -1629,22 +1658,30 @@ m0inaill3
 m0inaille
 m0ins-qu3-ri3n
 m0ins-que-rien
-m0n@c@!ll3
-m0n@c@!lle
+m0n5-qu3-r3n
+m0n5-que-ren
 m0n@c@1ll3
 m0n@c@1lle
 m0n@c@ill3
 m0n@c@ille
-m0naca!ll3
-m0naca!lle
+m0n@c@ll3
+m0n@c@lle
+m0n@ll3
+m0n@lle
 m0naca1ll3
 m0naca1lle
 m0nacaill3
 m0nacaille
-m0r!c@ud
-m0r!caud
+m0nacall3
+m0nacalle
+m0nall3
+m0nalle
+m0ns-qu3-r3n
+m0ns-que-ren
 m0r1c@ud
 m0r1caud
+m0rc@ud
+m0rcaud
 m0ric@ud
 m0ricaud
 m153r@bl3
@@ -1675,38 +1712,47 @@ m1sér@bl3
 m1sér@ble
 m1sérabl3
 m1sérable
-m3rd0u!ll@rd
-m3rd0u!llard
 m3rd0u1ll@rd
 m3rd0u1llard
 m3rd0uill@rd
 m3rd0uillard
+m3rd0ull@rd
+m3rd0ullard
 m3rd3
 m3rd3ux
-m3rd@!ll0n
-m3rd@!ll3
-m3rd@!llon
 m3rd@1ll0n
 m3rd@1ll3
 m3rd@1llon
 m3rd@ill0n
 m3rd@ill3
 m3rd@illon
-m3rda!ll0n
-m3rda!ll3
-m3rda!llon
+m3rd@ll0n
+m3rd@ll3
+m3rd@llon
 m3rda1ll0n
 m3rda1ll3
 m3rda1llon
 m3rdaill0n
 m3rdaill3
 m3rdaillon
-m3rdou!ll@rd
-m3rdou!llard
+m3rdall0n
+m3rdall3
+m3rdallon
 m3rdou1ll@rd
 m3rdou1llard
 m3rdouill@rd
 m3rdouillard
+m3rdoull@rd
+m3rdoullard
+m53r@bl3
+m53rabl3
+m5er@ble
+m5erabl3
+m5erable
+m5ér@bl3
+m5ér@ble
+m5érabl3
+m5érable
 m@g0t
 m@got
 m@k0um3
@@ -1721,10 +1767,6 @@ m@ng3-m3rd3
 m@nge-merde
 m@rch@nd0t
 m@rch@ndot
-m@rg0u!ll!5t3
-m@rg0u!ll!5te
-m@rg0u!ll!st3
-m@rg0u!ll!ste
 m@rg0u1ll15t3
 m@rg0u1ll15te
 m@rg0u1ll1st3
@@ -1733,10 +1775,10 @@ m@rg0uilli5t3
 m@rg0uilli5te
 m@rg0uillist3
 m@rg0uilliste
-m@rgou!ll!5t3
-m@rgou!ll!5te
-m@rgou!ll!st3
-m@rgou!ll!ste
+m@rg0ull5t3
+m@rg0ull5te
+m@rg0ullst3
+m@rg0ullste
 m@rgou1ll15t3
 m@rgou1ll15te
 m@rgou1ll1st3
@@ -1745,12 +1787,17 @@ m@rgouilli5t3
 m@rgouilli5te
 m@rgouillist3
 m@rgouilliste
-m@uv!3tt3
-m@uv!ette
+m@rgoull5t3
+m@rgoull5te
+m@rgoullst3
+m@rgoullste
 m@uv13tt3
 m@uv1ette
+m@uv3tt3
+m@uvette
 m@uvi3tt3
 m@uviette
+ma couille
 mag0t
 magot
 mak0um3
@@ -1760,19 +1807,27 @@ makoum3
 makoume
 makoumé
 malpt
+mamelon
 manch3
 manche
 manche à couilles
 mang3-m3rd3
+mange d'la marde
+mange de la marde
+mange de la merde
+mange la marde
+mange ma bite
+mange ma bitte
+mange moi
 mange-merde
 manger de la marde
+manger ma merde
+manges la merde
+mangeux d'marde
+mangeux de couilles
 maquerellage
 marchand0t
 marchandot
-marg0u!ll!5t3
-marg0u!ll!5te
-marg0u!ll!st3
-marg0u!ll!ste
 marg0u1ll15t3
 marg0u1ll15te
 marg0u1ll1st3
@@ -1781,10 +1836,10 @@ marg0uilli5t3
 marg0uilli5te
 marg0uillist3
 marg0uilliste
-margou!ll!5t3
-margou!ll!5te
-margou!ll!st3
-margou!ll!ste
+marg0ull5t3
+marg0ull5te
+marg0ullst3
+marg0ullste
 margou1ll15t3
 margou1ll15te
 margou1ll1st3
@@ -1793,43 +1848,59 @@ margouilli5t3
 margouilli5te
 margouillist3
 margouilliste
+margoull5t3
+margoull5te
+margoullst3
+margoullste
+masochiste
 masturber
 matos
-mauv!3tt3
-mauv!ette
+maudit
+maudit chaudron
+maudite vache
 mauv13tt3
 mauv1ette
+mauv3tt3
+mauvette
 mauvi3tt3
 mauviette
 mazouter le pingouin
+mb3cl3
+mbecl3
+mbecle
+mbécl3
+mbécle
+mcht0
+mchto
+me sucer la bite
 melon
 mercon
-merd0u!ll@rd
-merd0u!llard
 merd0u1ll@rd
 merd0u1llard
 merd0uill@rd
 merd0uillard
-merd@!ll0n
-merd@!lle
-merd@!llon
+merd0ull@rd
+merd0ullard
 merd@1ll0n
 merd@1lle
 merd@1llon
 merd@ill0n
 merd@ille
 merd@illon
-merda!ll0n
-merda!lle
-merda!llon
+merd@ll0n
+merd@lle
+merd@llon
 merda1ll0n
 merda1lle
 merda1llon
 merdaill0n
 merdaille
 merdaillon
+merdall0n
+merdalle
+merdallon
 merdasse
-merde
+merde embulante
 merder
 merderie
 merdeuse
@@ -1838,14 +1909,16 @@ merdicité
 merdier
 merdique
 merdogène
-merdou!ll@rd
-merdou!llard
 merdou1ll@rd
 merdou1llard
 merdouill@rd
 merdouillard
+merdoull@rd
+merdoullard
 mes couilles
+mes couilles en toi
 mes couilles le temps se brouille
+met la dans ta bouche
 mettre
 mettre dans la sauce
 mettre dans l’os
@@ -1855,6 +1928,7 @@ mettre le nez de quelqu’un dans sa merde
 mettre ses couilles sur la table
 mettre sur la gueule
 meuf
+meurs, pute
 mi53r@bl3
 mi53rabl3
 mi5er@bl3
@@ -1885,14 +1959,12 @@ misér@bl3
 misér@ble
 misérabl3
 misérable
-mo!n5-qu3-r!3n
-mo!n5-que-r!en
-mo!n@!ll3
-mo!n@!lle
-mo!na!ll3
-mo!na!lle
-mo!ns-qu3-r!3n
-mo!ns-que-r!en
+mn@bl3
+mn@ble
+mnabl3
+mnable
+mnu5
+mnus
 mo1n5-qu3-r13n
 mo1n5-que-r1en
 mo1n@1ll3
@@ -1910,25 +1982,40 @@ moinaille
 moins-qu3-ri3n
 moins-que-rien
 mollard
+mon calisse de chavirer
 mon cul
+mon dieu
+mon fuckin de calisse de mangeu d'graine
+mon fucking de calisse de mangeu d'graine
+mon maudit innocent
+mon païen
+mon tabarnak
 mon vier
 mon vier, madame olivier
-mon@c@!ll3
-mon@c@!lle
+mon5-qu3-r3n
+mon5-que-ren
 mon@c@1ll3
 mon@c@1lle
 mon@c@ill3
 mon@c@ille
-monaca!ll3
-monaca!lle
+mon@c@ll3
+mon@c@lle
+mon@ll3
+mon@lle
 monaca1ll3
 monaca1lle
 monacaill3
 monacaille
-mor!c@ud
-mor!caud
+monacall3
+monacalle
+monall3
+monalle
+mons-qu3-r3n
+mons-que-ren
 mor1c@ud
 mor1caud
+morc@ud
+morcaud
 moric@ud
 moricaud
 morue
@@ -1940,34 +2027,18 @@ moule
 moule à merde
 moule-bite
 mouron
+ms3r@bl3
+ms3rabl3
+mser@bl3
+mser@ble
+mserabl3
+mserable
+msér@bl3
+msér@ble
+msérabl3
+msérable
 mère enculée
 mésange
-n!@!53ux
-n!@!5eux
-n!@!s3ux
-n!@!seux
-n!@c
-n!@k0u3
-n!@k0ue
-n!@k0ué
-n!@kou3
-n!@koue
-n!@koué
-n!a!53ux
-n!a!5eux
-n!a!s3ux
-n!a!seux
-n!ac
-n!ak0u3
-n!ak0ue
-n!ak0ué
-n!akou3
-n!akoue
-n!akoué
-n!qu3
-n!qu3r
-n!que
-n!quer
 n1@153ux
 n1@15eux
 n1@1s3ux
@@ -1996,18 +2067,39 @@ n1que
 n1quer
 n3gr0
 n3gro
+n@53ux
+n@5eux
+n@c
+n@k0u3
+n@k0ue
+n@k0ué
+n@kou3
+n@koue
+n@koué
 n@s3
+n@s3ux
 n@se
+n@seux
 n@z3
 n@ze
+na53ux
+na5eux
+nac
+nak0u3
+nak0ue
+nak0ué
+nakou3
+nakoue
+nakoué
 nas3
+nas3ux
 nase
+naseux
 naz3
 naze
 ne plus se sentir pisser
 ne rien branler
 negr0
-negro
 ni@c
 ni@i53ux
 ni@i5eux
@@ -2032,32 +2124,44 @@ niakoue
 niakoué
 niqu3
 niqu3r
-nique
 nique sa mère
+nique ta mã¨re
 nique ta mère
 nique ta race
 niquer
 niquer sa mère
+nqu3
+nqu3r
+nque
+nquer
 ntm
 nul à chier
 nulach
 nulach’
+nymphe
+nymphomanie
 nègre
 nègres
 négr0
 négro
+néonazi
 n’en avoir rien à foutre
 oh hisse, enculé
+oh putain de merde
+oh, merde
 on s’encule
 ordure
+orgasme
+orgasmes
+orgie
+osti d'kalisse de pourris
+osti de tapette
+osti fils de putte
+ostie d'maillet
+ostie d'tarla
+ostie de cave
 oui ou merde
 ouvrir sa grande gueule
-p!550u
-p!55ou
-p!gn0uf
-p!gnouf
-p!ss0u
-p!ssou
 p0rc@5
 p0rc@553
 p0rc@55e
@@ -2073,14 +2177,6 @@ p0rcasse
 p0uc@v
 p0ucav
 p0uf
-p0uf!@553
-p0uf!@55e
-p0uf!@ss3
-p0uf!@sse
-p0uf!a553
-p0uf!a55e
-p0uf!ass3
-p0uf!asse
 p0uf1@553
 p0uf1@55e
 p0uf1@ss3
@@ -2089,14 +2185,14 @@ p0uf1a553
 p0uf1a55e
 p0uf1ass3
 p0uf1asse
-p0uff!@553
-p0uff!@55e
-p0uff!@ss3
-p0uff!@sse
-p0uff!a553
-p0uff!a55e
-p0uff!ass3
-p0uff!asse
+p0uf@553
+p0uf@55e
+p0uf@ss3
+p0uf@sse
+p0ufa553
+p0ufa55e
+p0ufass3
+p0ufasse
 p0uff1@553
 p0uff1@55e
 p0uff1@ss3
@@ -2105,6 +2201,14 @@ p0uff1a553
 p0uff1a55e
 p0uff1ass3
 p0uff1asse
+p0uff@553
+p0uff@55e
+p0uff@ss3
+p0uff@sse
+p0uffa553
+p0uffa55e
+p0uffass3
+p0uffasse
 p0uffi@553
 p0uffi@55e
 p0uffi@ss3
@@ -2124,12 +2228,12 @@ p0ufiasse
 p0und3
 p0unde
 p0undé
-p0urr!tur3
-p0urr!ture
 p0urr1tur3
 p0urr1ture
 p0urritur3
 p0urriture
+p0urrtur3
+p0urrture
 p1550u
 p155ou
 p1gn0uf
@@ -2154,6 +2258,8 @@ p3t@553
 p3t@ss3
 p3ta553
 p3tass3
+p550u
+p55ou
 p@k05
 p@k0s
 p@ko5
@@ -2162,9 +2268,9 @@ p@n0ufl3
 p@n0ufle
 p@noufl3
 p@noufle
-p@t@r!n
 p@t@r1n
 p@t@rin
+p@t@rn
 pachole
 pak05
 pak0s
@@ -2176,15 +2282,16 @@ pan0ufle
 panier
 panoufl3
 panoufle
+pansexuel
 papier-cul
 parachuter un sénégalais
 pare-choc
 pare-chocs
 parle à mon cul, ma tête est malade
 partir en couille
-patar!n
 patar1n
 patarin
+patarn
 pays-bas
 pd
 peau de zob
@@ -2194,7 +2301,6 @@ ped0que
 ped@l3
 ped@le
 pedal3
-pedale
 pede
 pedoqu3
 pedoque
@@ -2207,16 +2313,20 @@ pequ3n@ud
 pequ3naud
 pequen@ud
 pequenaud
+pervers
 pet
 pet sauce
 pet@55e
 pet@ss3
 pet@sse
 peta553
-peta55e
 petass3
-petasse
 peteux
+petit tabernac
+petite bite
+petite pute
+pgn0uf
+pgnouf
 pi550u
 pi55ou
 pign0uf
@@ -2229,14 +2339,11 @@ piner
 pinocumettable
 pinocumettre
 pipe
-pipi
 piquer
 piqûres
 piss0u
 piss3ux
-pisse
 pisse-au-lit
-pisser
 pisser de la copie
 pisser sa côtelette
 pisser à la raie
@@ -2256,9 +2363,9 @@ poche
 pogne-cul
 poil
 pomme à l’huile
+pommeau
 pompe à merde
 pomper
-porc
 porc@5
 porc@553
 porc@55e
@@ -2271,18 +2378,11 @@ porca55e
 porcas
 porcass3
 porcasse
+pornographie
 porter le pet
 pouc@v
 poucav
 pouf
-pouf!@553
-pouf!@55e
-pouf!@ss3
-pouf!@sse
-pouf!a553
-pouf!a55e
-pouf!ass3
-pouf!asse
 pouf1@553
 pouf1@55e
 pouf1@ss3
@@ -2291,14 +2391,14 @@ pouf1a553
 pouf1a55e
 pouf1ass3
 pouf1asse
-pouff!@553
-pouff!@55e
-pouff!@ss3
-pouff!@sse
-pouff!a553
-pouff!a55e
-pouff!ass3
-pouff!asse
+pouf@553
+pouf@55e
+pouf@ss3
+pouf@sse
+poufa553
+poufa55e
+poufass3
+poufasse
 pouff1@553
 pouff1@55e
 pouff1@ss3
@@ -2307,6 +2407,14 @@ pouff1a553
 pouff1a55e
 pouff1ass3
 pouff1asse
+pouff@553
+pouff@55e
+pouff@ss3
+pouff@sse
+pouffa553
+pouffa55e
+pouffass3
+pouffasse
 pouffi@553
 pouffi@55e
 pouffi@ss3
@@ -2328,51 +2436,50 @@ pound3
 pounde
 poundé
 pour les couilles du pape
-pourr!tur3
-pourr!ture
 pourr1tur3
 pourr1ture
 pourrir
 pourritur3
 pourriture
+pourrtur3
+pourrture
 pousse-crotte
 pousser le repas de la veille
 pousser une gueulante
 poutrer
-pube
-pun@!53
-pun@!5e
-pun@!s3
-pun@!se
+prostituée
+pss0u
+pssou
 pun@153
 pun@15e
 pun@1s3
 pun@1se
+pun@53
+pun@5e
 pun@i53
 pun@i5e
 pun@is3
 pun@ise
-puna!53
-puna!5e
-puna!s3
-puna!se
+pun@s3
+pun@se
 puna153
 puna15e
 puna1s3
 puna1se
+puna53
+puna5e
 punai53
 punai5e
 punais3
 punaise
-put!n
+punas3
+punase
 put1n
 put3
-put@!n
 put@1n
 put@in
-puta!n
+put@n
 puta1n
-putain
 putain con
 putain de
 putain de bordel de merde
@@ -2381,21 +2488,32 @@ putain de moine
 putain de sa mère
 putain de sa race
 putain de ta race
+putain t'es moche
+putain, pute
+putan
 pute
+pute a cinq cennes
 pute borgne
 pute de luxe
+pute or putin
 putin
+putn
 péd0qu3
 péd0que
 péd@l3
 péd@le
 pédal3
 pédale
+pédophile
+pédophilie
 pédoqu3
 pédoque
 pédé
 pédé comme un grec
 pélot
+pénis
+pénétration
+pénétrer
 pépom
 péqu3n@ud
 péqu3naud
@@ -2415,6 +2533,7 @@ péter le cul
 péter les couilles
 péter à la gueule
 péteux
+qu'esser qu'tu calice lã
 qu3ut@rd
 qu3utard
 queue
@@ -2424,33 +2543,23 @@ quéquette
 qu’il aille se faire foutre
 qu’ils aillent se faire foutre
 qu’on l’encule
-r!p0p33
-r!p0pe3
-r!p0pee
-r!p0pé3
-r!p0pée
-r!pop33
-r!pope3
-r!popee
-r!popé3
-r!popée
-r05b!f
 r05b1f
+r05bf
 r05bif
-r0b35p!3rr0t
 r0b35p13rr0t
+r0b35p3rr0t
 r0b35pi3rr0t
-r0b3sp!3rr0t
 r0b3sp13rr0t
+r0b3sp3rr0t
 r0b3spi3rr0t
-r0be5p!err0t
 r0be5p1err0t
+r0be5perr0t
 r0be5pierr0t
-r0besp!err0t
 r0besp1err0t
+r0besperr0t
 r0bespierr0t
-r0sb!f
 r0sb1f
+r0sbf
 r0sbif
 r0ulur3
 r0ulure
@@ -2470,10 +2579,11 @@ r@t0n
 r@ton
 raccrocher à la gueule
 raclur3
-raclure
 radasse
+rage
 ramoner
 ramoner le trou de balle
+rapace
 ras la touffe
 ras le cul
 ras-la-moule
@@ -2488,7 +2598,6 @@ retourne aux asperges
 rien à enculer
 rien à foutre
 riflard
-rimming
 rip0p33
 rip0pe3
 rip0pee
@@ -2499,53 +2608,63 @@ ripope3
 ripopee
 ripopé3
 ripopée
-ro5b!f
 ro5b1f
+ro5bf
 ro5bif
-rob35p!3rrot
 rob35p13rrot
+rob35p3rrot
 rob35pi3rrot
-rob3sp!3rrot
 rob3sp13rrot
+rob3sp3rrot
 rob3spi3rrot
-robe5p!errot
 robe5p1errot
+robe5perrot
 robe5pierrot
-robesp!errot
 robesp1errot
+robesperrot
 robespierrot
 rondelle
-rosb!f
 rosb1f
+rosbf
 rosbif
 roubignole
 roulur3
 roulure
 roupette
+rp0p33
+rp0pe3
+rp0pee
+rp0pé3
+rp0pée
+rpop33
+rpope3
+rpopee
+rpopé3
+rpopée
 râpé
 récurer la marmite
 réempaffer
 réenculer
-s0tt!s3ux
-s0tt!seux
 s0tt1s3ux
 s0tt1seux
 s0ttis3ux
 s0ttiseux
+s0tts3ux
+s0ttseux
 s0us-m3rd3
 s0us-merde
-s3nt-l@-p!ss3
 s3nt-l@-p1ss3
 s3nt-l@-piss3
-s3nt-la-p!ss3
+s3nt-l@-pss3
 s3nt-la-p1ss3
 s3nt-la-piss3
-s@g0u!n
+s3nt-la-pss3
 s@g0u1n
 s@g0uin
-s@gou!n
+s@g0un
 s@gou1n
 s@gouin
+s@goun
 s@l0p
 s@l0p3
 s@l0p3r13
@@ -2561,28 +2680,35 @@ s@lop3ri3
 s@lop@rd
 s@lope
 s@loperie
-s@tr0u!ll3
-s@tr0u!lle
 s@tr0u1ll3
 s@tr0u1lle
 s@tr0uill3
 s@tr0uille
-s@trou!ll3
-s@trou!lle
+s@tr0ull3
+s@tr0ulle
 s@trou1ll3
 s@trou1lle
 s@trouill3
 s@trouille
+s@troull3
+s@troulle
 sa mère
+sac a foutre
 sac de billes
 sac à foutre
 sac à merde
-sag0u!n
+sac ã merde
+sac ã vin
+saccade
+sacrament
+sadique
+sadisme
 sag0u1n
 sag0uin
-sagou!n
+sag0un
 sagou1n
 sagouin
+sagoun
 saint-chrême
 saint-ciboire
 saint-crême
@@ -2597,29 +2723,28 @@ sal3
 salaud
 sale
 salle des fêtes
-salop
 salop3
 salop3ri3
 salopard
-salope
 saloper1e
 saloperie
 salopes
+saloppe
 sanglant
 sans-couilles
 sarce
-satr0u!ll3
-satr0u!lle
 satr0u1ll3
 satr0u1lle
 satr0uill3
 satr0uille
-satrou!ll3
-satrou!lle
+satr0ull3
+satr0ulle
 satrou1ll3
 satrou1lle
 satrouill3
 satrouille
+satroull3
+satroulle
 saute au paf
 saute-au-paf
 sauter
@@ -2666,66 +2791,78 @@ se geler les couilles
 se les cailler
 se magner le cul
 se manger les couilles
+se masturber
 se ronger le cul à la vinaigrette
 se sortir les doigts du cul
 se taper
 se taper une queue
 se vider les couilles
 seins
-sent-l@-p!sse
 sent-l@-p1sse
 sent-l@-pisse
-sent-la-p!sse
+sent-l@-psse
 sent-la-p1sse
 sent-la-pisse
+sent-la-psse
+sexe
 shampoing
 simonaque
-skank
-smegma
-sott!s3ux
-sott!seux
+sodome
+sodomie
+sodomiser
+sodomisé
 sott1s3ux
 sott1seux
 sottis3ux
 sottiseux
+sotts3ux
+sottseux
 souchien
 souchienne
 sous-m3rd3
 sous-merde
+sperme
 sphincter
-st3@r!qu3
 st3@r1qu3
 st3@riqu3
-st3ar!qu3
+st3@rqu3
 st3ar1qu3
 st3ariqu3
-ste@r!qu3
-ste@r!que
+st3arqu3
 ste@r1qu3
 ste@r1que
 ste@riqu3
 ste@rique
-stear!qu3
-stear!que
+ste@rqu3
+ste@rque
 stear1qu3
 stear1que
 steariqu3
 stearique
-sté@r!qu3
-sté@r!que
+stearqu3
+stearque
+stephen harper
 sté@r1qu3
 sté@r1que
 sté@riqu3
 sté@rique
-stéar!qu3
-stéar!que
+sté@rqu3
+sté@rque
 stéar1qu3
 stéar1que
 stéariqu3
 stéarique
+stéarqu3
+stéarque
 suce
+suce ma bite
+suce ma bites
+suce ma blette
+suce ma marde
+suce ma quéquette
 suce-boules
 suce-médailles
+suceu d'poche
 suceuse
 s’archifoutre
 s’astiquer le poireau
@@ -2746,10 +2883,8 @@ t3t3ux
 t3ub3
 t3ube
 t3ubé
-t@f!0l3
-t@f!0le
-t@f!ol3
-t@f!ole
+t@f0l3
+t@f0le
 t@f10l3
 t@f10le
 t@f1ol3
@@ -2758,31 +2893,33 @@ t@fi0l3
 t@fi0le
 t@fiol3
 t@fiole
-t@nt0u53r!3
+t@fol3
+t@fole
 t@nt0u53r13
+t@nt0u53r3
 t@nt0u53ri3
-t@nt0u5er!e
 t@nt0u5er1e
+t@nt0u5ere
 t@nt0u5erie
-t@nt0us3r!3
 t@nt0us3r13
+t@nt0us3r3
 t@nt0us3ri3
-t@nt0user!e
 t@nt0user1e
+t@nt0usere
 t@nt0userie
 t@nt0uz3
 t@nt0uze
-t@ntou53r!3
 t@ntou53r13
+t@ntou53r3
 t@ntou53ri3
-t@ntou5er!e
 t@ntou5er1e
+t@ntou5ere
 t@ntou5erie
-t@ntous3r!3
 t@ntous3r13
+t@ntous3r3
 t@ntous3ri3
-t@ntouser!e
 t@ntouser1e
+t@ntousere
 t@ntouserie
 t@ntouz3
 t@ntouze
@@ -2792,17 +2929,21 @@ t@rl0uz3
 t@rl0uze
 t@rlouz3
 t@rlouze
+ta ben pas d'amis.
 ta bouche
 ta gueule
+ta gueule quand je parle
+ta mere
+ta mere la pute
+ta mere suce des bites en enfer
 ta mère
 ta mère la pute
 tabarnac
 tabarnak
+tabernac
 taboune
-taf!0l3
-taf!0le
-taf!ol3
-taf!ole
+taf0l3
+taf0le
 taf10l3
 taf10le
 taf1ol3
@@ -2811,32 +2952,35 @@ tafi0l3
 tafi0le
 tafiol3
 tafiole
+tafol3
+tafole
+tais-toi
 tanche
-tant0u53r!3
 tant0u53r13
+tant0u53r3
 tant0u53ri3
-tant0u5er!e
 tant0u5er1e
+tant0u5ere
 tant0u5erie
-tant0us3r!3
 tant0us3r13
+tant0us3r3
 tant0us3ri3
-tant0user!e
 tant0user1e
+tant0usere
 tant0userie
 tant0uz3
 tant0uze
-tantou53r!3
 tantou53r13
+tantou53r3
 tantou53ri3
-tantou5er!e
 tantou5er1e
+tantou5ere
 tantou5erie
-tantous3r!3
 tantous3r13
+tantous3r3
 tantous3ri3
-tantouser!e
 tantouser1e
+tantousere
 tantouserie
 tantouz3
 tantouze
@@ -2848,15 +2992,20 @@ tapiole
 tapis muncher
 tarl0uz3
 tarl0uze
+tarlouse va
 tarlouz3
 tarlouze
 tartissure
 taspé
 tassepé
+tayeul
 tebe
 tebé
 techa
+tenir votre ane
 tepu
+testiculaire
+testicule
 tet3ux
 teteux
 teub
@@ -2870,30 +3019,29 @@ tire-au-cul
 tirelire
 tirer son coup
 tirer un coup
-titt
 toc@rd
 tocard
 touche à ton cul t’auras des verrues
 touffe
 tout de la gueule
 tr0uduc
-tr@!n33
-tr@!nee
 tr@1n33
 tr@1nee
 tr@in33
 tr@inee
+tr@n33
+tr@nee
 tr@în33
 tr@îne3
 tr@înee
 tr@îné3
 tr@înée
-tra!n33
-tra!nee
 tra1n33
 tra1nee
 train33
 trainee
+tran33
+tranee
 trappe
 traîn33
 traîne3
@@ -2908,23 +3056,15 @@ trique
 troncher
 trou de balle
 trou de cul
+trou de t'chu
 trou du cul
 trou du cul du monde
-trouduc
 trouducune
 trouer le cul
 troufignoler
 troufignolerie
 troufignoliser
 troufignon
-tru!@553
-tru!@55e
-tru!@ss3
-tru!@sse
-tru!a553
-tru!a55e
-tru!ass3
-tru!asse
 tru1@553
 tru1@55e
 tru1@ss3
@@ -2933,6 +3073,14 @@ tru1a553
 tru1a55e
 tru1ass3
 tru1asse
+tru@553
+tru@55e
+tru@ss3
+tru@sse
+trua553
+trua55e
+truass3
+truasse
 trui@553
 trui@55e
 trui@ss3
@@ -2942,6 +3090,12 @@ truia55e
 truiass3
 truiasse
 truie
+tu es con
+tu es un putain
+tu et un ane
+tu fais chier.
+tu m`emmerdes
+tu mangeras le tas
 turluchon
 turlute
 turlutte
@@ -2952,35 +3106,10 @@ tét3ux
 téteux
 tête de gland
 tête de nœud
-v!3d@53
-v!3d@s3
-v!3da53
-v!3das3
-v!3r
-v!d3-c0u!ll35
-v!d3-c0u!ll3s
-v!d3-cou!ll35
-v!d3-cou!ll3s
-v!de-c0u!lle5
-v!de-c0u!lles
-v!de-cou!lle5
-v!de-cou!lles
-v!ed@5e
-v!ed@s3
-v!ed@se
-v!eda53
-v!eda5e
-v!edas3
-v!edase
-v!er
-v!éd@53
-v!éd@5e
-v!éd@s3
-v!éd@se
-v!éda53
-v!éda5e
-v!édas3
-v!édase
+une salope
+urinaire
+urètre
+utérus
 v13d@53
 v13d@s3
 v13da53
@@ -3011,29 +3140,63 @@ v1éda53
 v1éda5e
 v1édas3
 v1édase
-v@ur!3n
-v@ur!en
+v3d@53
+v3d@s3
+v3da53
+v3das3
+v3r
 v@ur13n
 v@ur1en
+v@ur3n
+v@uren
 v@uri3n
 v@urien
 va chier
 va libérer mandela
+va niquer ta mã¨re
 va niquer ta mère
+va su le djabe
+va t'empaler encule
 va te faire empapaouter
 va te faire enculer
+va te faire enculer chez les grecs
+va te faire enculer par un ourse
 va te faire foutre
 va te faire mettre
 va te faire une soupe d’esques
+va te faire voir
+va te pendre
+va te pendre avec ma bite
+vache sale
+vagin
 vais libérer mandela
 valseuse
-vaur!3n
-vaur!en
+vas faire foutre a la vache
+vas te faire cuire un eouf fils de pute
+vas te faire enculi
 vaur13n
 vaur1en
+vaur3n
+vauren
 vauri3n
 vaurien
+vd3-c0ull35
+vd3-c0ull3s
+vd3-coull35
+vd3-coull3s
+vde-c0ulle5
+vde-c0ulles
+vde-coulle5
+vde-coulles
+ved@5e
+ved@s3
+ved@se
+veda53
+veda5e
+vedas3
+vedase
 vendre du piment
+ver
 veuve
 vi3d@53
 vi3d@s3
@@ -3058,8 +3221,12 @@ vieda5e
 viedas3
 viedase
 vieille
+viens m'enculer
 vier
 vier d’âne
+viol
+violeur
+violé
 viéd@53
 viéd@5e
 viéd@s3
@@ -3068,48 +3235,51 @@ viéda53
 viéda5e
 viédas3
 viédase
+vous sentez comme le boeuf et le fromage
+vous vissez
 vtff
+véd@53
+véd@5e
+véd@s3
+véd@se
+véda53
+véda5e
+védas3
+védase
 x évalué
-x3r0p!n3ur
 x3r0p1n3ur
 x3r0pin3ur
-x3rop!n3ur
+x3r0pn3ur
 x3rop1n3ur
 x3ropin3ur
-xer0p!n3ur
-xer0p!neur
+x3ropn3ur
 xer0p1n3ur
 xer0p1neur
 xer0pin3ur
 xer0pineur
-xerop!n3ur
-xerop!neur
+xer0pn3ur
+xer0pneur
 xerop1n3ur
 xerop1neur
 xeropin3ur
 xeropineur
-xér0p!n3ur
-xér0p!neur
+xeropn3ur
+xeropneur
 xér0p1n3ur
 xér0p1neur
 xér0pin3ur
 xér0pineur
-xérop!n3ur
-xérop!neur
+xér0pn3ur
+xér0pneur
 xérop1n3ur
 xérop1neur
 xéropin3ur
 xéropineur
+xéropn3ur
+xéropneur
 y avoir une couille dans le potage
 y avoir une couille dans le pâté
 y0ud
-y0up!n
-y0up!n!5@t!0n
-y0up!n!5at!0n
-y0up!n!s@t!0n
-y0up!n!sat!0n
-y0up!n3
-y0up!ne
 y0up1n
 y0up1n15@t10n
 y0up1n15at10n
@@ -3124,19 +3294,19 @@ y0upini5@ti0n
 y0upini5ati0n
 y0upinis@ti0n
 y0upinisati0n
+y0upn
+y0upn3
+y0upn5@t0n
+y0upn5at0n
+y0upne
+y0upns@t0n
+y0upnsat0n
 y0utr3
 y0utre
 y3ul3
 yeule
 youd
 youp
-youp!n
-youp!n!5@t!on
-youp!n!5at!on
-youp!n!s@t!on
-youp!n!sat!on
-youp!n3
-youp!ne
 youp1n
 youp1n15@t1on
 youp1n15at1on
@@ -3151,6 +3321,13 @@ youpini5@tion
 youpini5ation
 youpinis@tion
 youpinisation
+youpn
+youpn3
+youpn5@ton
+youpn5aton
+youpne
+youpns@ton
+youpnsaton
 youtr3
 youtre
 zboob
@@ -3162,6 +3339,7 @@ zguègu3
 zguègue
 zigounette
 zizi
+zoophilie
 zut
 à chier
 à couilles rabattues
@@ -3172,19 +3350,27 @@ zut
 à un poil de cul
 éburné
 écouillé
+égoïsme
 éjaculant
-ép@!5
-ép@!s
+éjaculation
+éjaculations
+éjacule
+éjaculer
+éjaculé
 ép@15
 ép@1s
+ép@5
 ép@i5
 ép@is
-épa!5
-épa!s
+ép@s
 épa15
 épa1s
+épa5
 épai5
 épais
+épas
+érection
+ériger
 étr0n
 étrangler le borgne
 étron
