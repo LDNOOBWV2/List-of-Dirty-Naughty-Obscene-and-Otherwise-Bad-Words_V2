@@ -59,7 +59,7 @@ language | count | filename | in csv-file | remark
  [Galician](data/gl.txt)	   |  74	| gl |	N|
  [German](data/de.txt)		    | 622	| de |	Y|
  [Greek](data/el.txt)		     | 249	| el |	Y|
- [Hebrew](data/yid.txt)	    | 169	| yid|	N|
+ [Hebrew](data/yid.txt)	    | 173	| yid|	N|
  [Hindi](data/hi.txt)		     | 374	| hi |	Y|
  [Hungarian](data/hu.txt)	  | 296	| hu |	Y|
  [Icelandic](data/is.txt)   | 137	| is |	Y|
