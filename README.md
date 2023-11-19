@@ -7,9 +7,9 @@ The files are available in HuggingFace, there you can find them in the [parquet 
 ###
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs, hopefully getting a lot of feedback.
 ###
-The lists need reviews from native speakers. It would be great to collect more words and even get more languages (**72** right now).
+The lists need reviews from native speakers. It would be great to collect more words and even get more languages (**75** right now).
 ###
-The long list of English words shows that people got very creative to get around profanity filters. The best way to use these hard-coded word lists is to use them as an additional quality criterion for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set, or use them for ML building profanity filters.
+The long list of English words shows that people got very creative to get around profanity filters. The best way to use these hard-coded word lists is to use them as an additional quality criterion for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set or use them for ML building profanity filters.
 ###
 The next TODO will be to create some regular expressions for often-used spelling variations.
 ### Structure and Format
@@ -22,7 +22,7 @@ The next TODO will be to create some regular expressions for often-used spelling
  - often used words where the classification as a profane word is doubtful there is a separate csv file
  - the csv-file is: "***questionable_international_words.csv***" 
  - separator is the comma "**,**"
- - **152** words for several languages (see table below)
+ - **51** words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column (*category*), and a *remark* column
  - these words are **NOT** included in the language-text-files, e.g. "***.txt**"
  - when I couldn't find a translation, the field contains the string: **<NO_TRANSLATION>**
@@ -31,10 +31,12 @@ language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
  [Afrikaans](data/af.txt)	  |  86	| af |	Y|
  [Albanian](data/sq.txt) 	  | 122	| sq |	Y|
+ [Algerian](data/dz.txt) 	  | 122	| dz |	N|
  [Amharic](data/am.txt)     |  22 | am | N|
  [Arabic](data/ar.txt)		    | 443	| ar |	N|
  [Armenian](data/hy.txt)	   | 106	| hy |	Y|
- [Australian Kriol](data/rop.txt))	|  12	| rop|	N|
+ [Australian Kriol](data/rop.txt))	|  12	| rop| N|
+ [Azerbaijanian](data/az.txt)	     | 106	| az |	N|
  [Basque](data/eu.txt)		    | 137	| eu |	N|
  [Belorussian](data/be.txt)	| 118	| be |	N|
  [Bulgarian](data/bg.txt)	  | 115	| bg |	Y|
@@ -62,7 +64,8 @@ language | count | filename | in csv-file | remark
  [Icelandic](data/is.txt)   |  87	| is |	Y|
  [Italian](data/it.txt)		   |1257	| it |	Y|
  [Indonesian](data/id.txt)	 | 141	| id |	Y|
- [Japanese](data/ja.txt)	   | 250	| ja |	Y|
+ [Japanese](data/ja.txt)	   | 250	| ja |	Y| 
+ [Jewish](data/yid.txt)	    | 250	| yid|	N|
  [Kabyle](data/kab.txt)	   	|  22	| kab|	N|
  [Klingon](data/tlh.txt)   	|   3	| tlh|	N|
  [Korean](data/ko.txt)	    	|2958	| ko |	Y|
@@ -79,14 +82,14 @@ language | count | filename | in csv-file | remark
  [Norwegian](data/no.txt)  	|  37	| no |	Y|
  [Persian](data/fa.txt)	   	| 527	| fa |	N|
  [Polish](data/pl.txt)		    |8862	| pl |	Y| different grammatical variations
- [Portuguese](data/pt.txt) 	| 412	| pt |	Y|
+ [Portuguese](data/pt.txt) 	| 412	| pt |	Y| including Brasilian
  [Romanian](data/ro.txt)  	 | 134	| ro |	Y|
  [Russian](data/ru.txt)	   	|4761	| ru |	Y|
  [Samoan](data/sm.txt)		    |  15	| sm |	Y|
  [Serbian](data/sr.txt)	   	| 142	| sr |	Y| sr_k & sr_l in csv file
  [Slovak](data/sk.txt)	     | 139	| sk |	Y|
  [Slovene](data/sl.txt)		   | 108	| sl |	Y|
- [Spanish](data/es.txt)		   |1127	| es |	Y|
+ [Spanish](data/es.txt)		   |1127	| es |	Y| including Middle- and South American
  [Swedish](data/sv.txt)	   	| 160	| sv |	Y|
  [Tamil](data/ta.txt)	     	|  48	| ta |	N|
  [Telugu](data/te.txt)		    | 112	| te |	Y|
