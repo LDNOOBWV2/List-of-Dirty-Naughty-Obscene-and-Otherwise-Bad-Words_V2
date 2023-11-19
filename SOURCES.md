@@ -2,6 +2,8 @@
 As mentioned in [README.md](README.md) the LDNOOBW List was the starting point of this collection of words and phrases:
  - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
 ####
+All the sources were checked for non-infamous words and debatable words found in many sources were put into the *questionable_international_words.csv* Checking sources continues, but the lists are not growing much anymore. They will be added once the results are cross-checked.
+####
  - https://github.com/2Toad/Profanity/blob/master/src/data
  - https://github.com/Bruk3/obscenity-filter/blob/main/data
  - https://github.com/DivineOmega/is_offensive/blob/master/resources
@@ -63,5 +65,8 @@ As mentioned in [README.md](README.md) the LDNOOBW List was the starting point o
  - https://github.com/vandie/isprofanity/tree/master/data
  - https://github.com/words/cuss
  - https://github.com/zacanger/profane-words/blob/master
+ - https://www.cs.cmu.edu/~biglou/resources
+ - https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/
  - https://www.kaggle.com/datasets/nicapotato/bad-bad-words
  - https://www.thetraveltart.com/german-swear-words-slang-expletives
+ - https://www.youswear.com/index.asp
