@@ -33,7 +33,7 @@ language | count | filename | in csv-file | remark
  [Albanian](data/sq.txt) 	  | 179	| sq |	Y|
  [Algerian](data/dz.txt) 	  |  86	| dz |	N|
  [Amharic](data/am.txt)     |  50 | am | N|
- [Arabic](data/ar.txt)		    |1132	| ar |	N|
+ [Arabic](data/ar.txt)		    |1248	| ar |	N|
  [Armenian](data/hy.txt)	   | 106	| hy |	Y|
  [Australian Kriol](data/rop.txt))	|  16	| rop| N|
  [Azerbaijanian](data/az.txt)	     |  37	| az |	N|
@@ -54,10 +54,10 @@ language | count | filename | in csv-file | remark
  [Estonian](data/et.txt)	   | 174	| et |	Y|
  [Filipino](data/fil.txt)	  | 167	| fil|	Y|
  [Finnish](data/fi.txt)		   | 317	| fi |	Y|
- [French](data/fr.txt)		    |3380	| fr |	Y| many spelling variations
+ [French](data/fr.txt)		    |3565	| fr |	Y| many spelling variations
  [Gaelic](data/gd.txt)		    |  88	| gd |	N|
  [Galician](data/gl.txt)	   |  74	| gl |	N|
- [German](data/de.txt)		    | 553	| de |	Y|
+ [German](data/de.txt)		    | 622	| de |	Y|
  [Greek](data/el.txt)		     | 249	| el |	Y|
  [Hindi](data/hi.txt)		     | 374	| hi |	Y|
  [Hungarian](data/hu.txt)	  | 296	| hu |	Y|
