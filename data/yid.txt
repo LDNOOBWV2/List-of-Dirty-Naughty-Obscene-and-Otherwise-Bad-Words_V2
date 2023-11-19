@@ -8,6 +8,7 @@ ani ekraa othaa
 ani ev'at lecha babeitzim
 ani yiv-at lecha ba beitsim
 anni rotze lechaki alecha
+arab
 aravi
 ata al hazain sheli
 ayin kafin yan
@@ -123,6 +124,7 @@ savta shel-ha mefa-geret
 shak li batahat
 shakli b'tahat
 sharlila
+sharmuta
 she elohim yikach otcha kvar
 shmenah
 shmundie
@@ -135,7 +137,9 @@ t'mtzetzi li
 ta'ase li tova
 tahat
 tamut
+tamut (male)
 tamuti
+tamuti (female)
 tilhas tizi
 tim-tsots li et habeitsim ha-seyrot
 timtzotz li et hazyn
