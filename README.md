@@ -20,7 +20,7 @@ The next TODO will be to create some regular expressions for often-used spelling
  - one expression per line
  - all words contained in the English "*en*" file are excluded in the other language files
  - often used words where the classification as a profane word is doubtful there is a separate csv file
- - the csv-file is: "***(questionable_international_words.csv)***" 
+ - the csv-file is: ***(questionable_international_words.csv)***
  - separator is the comma "**,**"
  - **51** words for several languages (see table below)
  - the header line contains the iso-code of the language, a classification column (*category*), and a *remark* column
