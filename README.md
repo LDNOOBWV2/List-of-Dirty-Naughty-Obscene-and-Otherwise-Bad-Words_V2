@@ -29,81 +29,81 @@ The next TODO will be to create some regular expressions for often-used spelling
 ### Languages Files Overview
 language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
- [Afrikaans](data/af.txt)	  |  86	| af |	Y|
- [Albanian](data/sq.txt) 	  | 122	| sq |	Y|
- [Algerian](data/dz.txt) 	  | 122	| dz |	N|
- [Amharic](data/am.txt)     |  22 | am | N|
- [Arabic](data/ar.txt)		    | 443	| ar |	N|
+ [Afrikaans](data/af.txt)	  | 283	| af |	Y|
+ [Albanian](data/sq.txt) 	  | 179	| sq |	Y|
+ [Algerian](data/dz.txt) 	  |  86	| dz |	N|
+ [Amharic](data/am.txt)     |  50 | am | N|
+ [Arabic](data/ar.txt)		    |1132	| ar |	N|
  [Armenian](data/hy.txt)	   | 106	| hy |	Y|
- [Australian Kriol](data/rop.txt))	|  12	| rop| N|
- [Azerbaijanian](data/az.txt)	     | 106	| az |	N|
- [Basque](data/eu.txt)		    | 137	| eu |	N|
+ [Australian Kriol](data/rop.txt))	|  16	| rop| N|
+ [Azerbaijanian](data/az.txt)	     |  37	| az |	N|
+ [Basque](data/eu.txt)		    |  48	| eu |	N|
  [Belorussian](data/be.txt)	| 118	| be |	N|
- [Bulgarian](data/bg.txt)	  | 115	| bg |	Y|
- [Burmese](data/my.txt)		   |  52	| my |	N|
+ [Bulgarian](data/bg.txt)	  | 338	| bg |	Y|
+ [Burmese](data/my.txt)		   |  81	| my |	N|
  [Cambodian](data/kh.txt)   | 132	| kh |	N|
- [Catalan](data/ca.txt)		   |  65	| ca |	Y|
- [Cebuano](data/ceb.txt)		  |   7	| ceb|	N|
- [Chinese](data/zh.txt)		   |1173	| zh |	Y|
- [Croatian](data/hr.txt)	   | 115	| hr |	Y|
- [Czech](data/cs.txt)		     | 187	| cs |	Y|
- [Danish](data/da.txt)		    | 127	| da |	Y|
- [Dutch](data/nl.txt)		     |1099	| nl |	Y|
- [English](data/en.txt)		   |8053	| en |	Y| various spelling variations
- [Esperanto](data/eo.txt)	  |  37	| eo |	N|
- [Estonian](data/et.txt)	   | 114	| et |	Y|
- [Filipino](data/fil.txt)	  | 103	| fil|	Y|
- [Finnish](data/fi.txt)		   | 212	| fi |	Y|
- [French](data/fr.txt)		    |3194	| fr |	Y| many spelling variations
- [Gaelic](data/gd.txt)		    | 132	| gd |	N|
- [Galician](data/gl.txt)	   | 129	| gl |	N|
- [German](data/de.txt)		    | 447	| de |	Y|
- [Greek](data/el.txt)		     |  86	| el |	Y|
- [Hindi](data/hi.txt)		     | 250	| hi |	Y|
- [Hungarian](data/hu.txt)	  | 213	| hu |	Y|
- [Icelandic](data/is.txt)   |  87	| is |	Y|
- [Italian](data/it.txt)		   |1257	| it |	Y|
- [Indonesian](data/id.txt)	 | 141	| id |	Y|
- [Japanese](data/ja.txt)	   | 250	| ja |	Y| 
- [Jewish](data/yid.txt)	    | 250	| yid|	N|
+ [Catalan](data/ca.txt)		   | 143	| ca |	Y|
+ [Cebuano](data/ceb.txt)		  |  18	| ceb|	N|
+ [Chinese](data/zh.txt)		   |1416	| zh |	Y|
+ [Croatian](data/hr.txt)	   | 267	| hr |	Y|
+ [Czech](data/cs.txt)		     | 243	| cs |	Y|
+ [Danish](data/da.txt)		    | 185	| da |	Y|
+ [Dutch](data/nl.txt)		     |1222	| nl |	Y|
+ [English](data/en.txt)		   |8146	| en |	Y| various spelling variations
+ [Esperanto](data/eo.txt)	  |  50	| eo |	N|
+ [Estonian](data/et.txt)	   | 174	| et |	Y|
+ [Filipino](data/fil.txt)	  | 167	| fil|	Y|
+ [Finnish](data/fi.txt)		   | 317	| fi |	Y|
+ [French](data/fr.txt)		    |3380	| fr |	Y| many spelling variations
+ [Gaelic](data/gd.txt)		    |  88	| gd |	N|
+ [Galician](data/gl.txt)	   |  74	| gl |	N|
+ [German](data/de.txt)		    | 553	| de |	Y|
+ [Greek](data/el.txt)		     | 249	| el |	Y|
+ [Hindi](data/hi.txt)		     | 374	| hi |	Y|
+ [Hungarian](data/hu.txt)	  | 296	| hu |	Y|
+ [Icelandic](data/is.txt)   | 137	| is |	Y|
+ [Italian](data/it.txt)		   |1283	| it |	Y|
+ [Indonesian](data/id.txt)	 | 292	| id |	Y|
+ [Japanese](data/ja.txt)	   | 466	| ja |	Y| 
+ [Jewish](data/yid.txt)	    | 169	| yid|	N|
  [Kabyle](data/kab.txt)	   	|  22	| kab|	N|
- [Klingon](data/tlh.txt)   	|   3	| tlh|	N|
- [Korean](data/ko.txt)	    	|2958	| ko |	Y|
- [Latin](data/la.txt)	     	| 108	| la |	N|
- [Latvian](data/lv.txt)	   	| 118	| lv |	Y|
- [Lithuanian](data/lt.txt)	 | 113	| lt |	Y|
- [Macedonian](data/mk.txt)	 | 113	| mk |	N|
- [Malay](data/ms.txt)	     	| 121	| ms |	Y|
- [Malayalam](data/ml.txt)	  | 116	| ml |	Y|
- [Maltese](data/mt.txt)		   | 123	| mt |	Y|
- [Maori](data/mi.txt)	     	|  20	| mi |	Y|
+ [Klingon](data/tlh.txt)   	|  33	| tlh|	N|
+ [Korean](data/ko.txt)	    	|3097	| ko |	Y|
+ [Latin](data/la.txt)	     	| 103	| la |	N|
+ [Latvian](data/lv.txt)	   	| 198	| lv |	Y|
+ [Lithuanian](data/lt.txt)	 | 158	| lt |	Y|
+ [Macedonian](data/mk.txt)	 | 192	| mk |	N|
+ [Malay](data/ms.txt)	     	| 204	| ms |	Y|
+ [Malayalam](data/ml.txt)	  | 338	| ml |	Y|
+ [Maltese](data/mt.txt)		   | 132	| mt |	Y|
+ [Maori](data/mi.txt)	     	|  59	| mi |	Y|
  [Marathi](data/mr.txt)	   	|  95	| mr |	Y|
- [Mongolian](data/mn.txt)	  | 133	| mn |	N|
- [Norwegian](data/no.txt)  	|  37	| no |	Y|
- [Persian](data/fa.txt)	   	| 527	| fa |	N|
- [Polish](data/pl.txt)		    |8862	| pl |	Y| different grammatical variations
- [Portuguese](data/pt.txt) 	| 412	| pt |	Y| including Brasilian
- [Romanian](data/ro.txt)  	 | 134	| ro |	Y|
- [Russian](data/ru.txt)	   	|4761	| ru |	Y|
- [Samoan](data/sm.txt)		    |  15	| sm |	Y|
- [Serbian](data/sr.txt)	   	| 142	| sr |	Y| sr_k & sr_l in csv file
- [Slovak](data/sk.txt)	     | 139	| sk |	Y|
- [Slovene](data/sl.txt)		   | 108	| sl |	Y|
- [Spanish](data/es.txt)		   |1127	| es |	Y| including Middle- and South American
- [Swedish](data/sv.txt)	   	| 160	| sv |	Y|
- [Tamil](data/ta.txt)	     	|  48	| ta |	N|
- [Telugu](data/te.txt)		    | 112	| te |	Y|
- [Tetum](data/tet.txt)		    |   6	| tet|	N|
- [Thai](data/th.txt)	      	|1581	| th |	Y|
- [Tongan](data/to.txt)	    	|  15	| to |	N|
- [Turkish](data/tr.txt)    	| 230	| tr |	Y|
- [Ukrainian](data/uk.txt)	  |  91	| uk |	Y|
- [Uzbek](data/uz.txt)	     	| 113	| uz |	N|
- [Vietnamese](data/vi.txt)	 | 537	| vi |	Y|
- [Welsh](data/cy.txt)		     | 174	| cy |	Y|
- [Zulu](data/zu.txt)       	| 137	| zu |	N|
- [???](data/pih.txt)	      	|  17	| pih|	N|
- [???](data/piy.txt)	      	|  15	| piy|	N|
+ [Mongolian](data/mn.txt)	  | 277	| mn |	N|
+ [Norwegian](data/no.txt)  	| 172	| no |	Y|
+ [Persian](data/fa.txt)	   	| 629	| fa |	N|
+ [Polish](data/pl.txt)		    |8965	| pl |	Y| different grammatical variations
+ [Portuguese](data/pt.txt) 	| 575	| pt |	Y| including Brasilian
+ [Romanian](data/ro.txt)  	 | 290	| ro |	Y|
+ [Russian](data/ru.txt)	   	|4934	| ru |	Y|
+ [Samoan](data/sm.txt)		    | 116	| sm |	Y|
+ [Serbian](data/sr.txt)	   	| 466	| sr |	Y| sr_k & sr_l in csv file
+ [Slovak](data/sk.txt)	     | 431	| sk |	Y|
+ [Slovene](data/sl.txt)		   | 167	| sl |	Y|
+ [Spanish](data/es.txt)		   |1639	| es |	Y| including Middle- and South American
+ [Swedish](data/sv.txt)	   	| 247	| sv |	Y|
+ [Tamil](data/ta.txt)	     	| 119	| ta |	N|
+ [Telugu](data/te.txt)		    | 317	| te |	Y|
+ [Tetum](data/tet.txt)		    |  11	| tet|	N|
+ [Thai](data/th.txt)	      	|1717	| th |	Y|
+ [Tongan](data/to.txt)	    	|  68	| to |	N|
+ [Turkish](data/tr.txt)    	| 370	| tr |	Y|
+ [Ukrainian](data/uk.txt)	  | 208	| uk |	Y|
+ [Uzbek](data/uz.txt)	     	| 102	| uz |	N|
+ [Vietnamese](data/vi.txt)	 | 597	| vi |	Y|
+ [Welsh](data/cy.txt)		     | 169	| cy |	Y|
+ [Zulu](data/zu.txt)       	| 115	| zu |	N|
+ [???](data/pih.txt)	      	|  14	| pih|	N|
+ [???](data/piy.txt)	      	|  13	| piy|	N|
  
 ### Categories in *questionable_international_words.csv*
 The categories used are:
