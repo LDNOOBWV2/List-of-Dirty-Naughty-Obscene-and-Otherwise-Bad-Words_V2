@@ -7,7 +7,7 @@ The files are available in HuggingFace, there you can find them in the [parquet 
 ###
 As the opinion on which words should be in such lists varies between culture, language, and geographies, feel free to extend them to your needs, hopefully getting a lot of feedback.
 ###
-The lists need reviews from native speakers. It would be great to collect more words and even get more languages (**75** right now).
+The lists need reviews from native speakers. It would be great to collect more words and even get more languages (**75** right now, with over **50k words** alltogether).
 ###
 The long list of English words shows that people got very creative to get around profanity filters. The best way to use these hard-coded word lists is to use them as an additional quality criterion for filtering texts like it is done in [RedPajama](https://github.com/togethercomputer/RedPajama-Data) data set or use them for ML building profanity filters.
 ###
