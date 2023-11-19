@@ -99,7 +99,7 @@ language | count | filename | in csv-file | remark
  [Turkish](data/tr.txt)    	| 370	| tr |	Y|
  [Ukrainian](data/uk.txt)	  | 208	| uk |	Y|
  [Uzbek](data/uz.txt)	     	| 102	| uz |	N|
- [Vietnamese](data/vi.txt)	 | 597	| vi |	Y|
+ [Vietnamese](data/vi.txt)	 | 798	| vi |	Y|
  [Welsh](data/cy.txt)		     | 169	| cy |	Y|
  [Zulu](data/zu.txt)       	| 115	| zu |	N|
  [???](data/pih.txt)	      	|  14	| pih|	N|
