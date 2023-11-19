@@ -59,13 +59,13 @@ language | count | filename | in csv-file | remark
  [Galician](data/gl.txt)	   |  74	| gl |	N|
  [German](data/de.txt)		    | 622	| de |	Y|
  [Greek](data/el.txt)		     | 249	| el |	Y|
+ [Hebrew](data/yid.txt)	    | 169	| yid|	N|
  [Hindi](data/hi.txt)		     | 374	| hi |	Y|
  [Hungarian](data/hu.txt)	  | 296	| hu |	Y|
  [Icelandic](data/is.txt)   | 137	| is |	Y|
  [Italian](data/it.txt)		   |1755	| it |	Y|
  [Indonesian](data/id.txt)	 | 535	| id |	Y|
  [Japanese](data/ja.txt)	   | 466	| ja |	Y| 
- [Jewish](data/yid.txt)	    | 169	| yid|	N|
  [Kabyle](data/kab.txt)	   	|  22	| kab|	N|
  [Klingon](data/tlh.txt)   	|  33	| tlh|	N|
  [Korean](data/ko.txt)	    	|3097	| ko |	Y|
