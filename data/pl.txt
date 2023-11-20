@@ -66,6 +66,7 @@ chwalidupą
 chwalidupę
 ciota
 cip
+cipa
 cipach
 cipami
 cipce
@@ -422,6 +423,7 @@ dosrałyśmy
 dosrań
 drań
 dup
+dupa
 dupach
 dupami
 dupci
@@ -577,6 +579,7 @@ dupy
 dupą
 dupć
 dupę
+dziwka
 dziwki
 dzwonek
 egoizm
@@ -853,6 +856,7 @@ kurewstwom
 kurewstwu
 kurki
 kurw
+kurwa
 kurwaa
 kurwach
 kurwami
@@ -6208,6 +6212,7 @@ skurwiłyście
 skurwiłyśmy
 skurwmy
 skurwmyż
+skurwysyn
 skurwysyna
 skurwysynach
 skurwysynami
@@ -6657,6 +6662,7 @@ ssij kutasa
 ssij mi fiuta
 ssij mi kutasa
 ssij suko
+suka
 suki
 sukinsyn
 sukinsyna
