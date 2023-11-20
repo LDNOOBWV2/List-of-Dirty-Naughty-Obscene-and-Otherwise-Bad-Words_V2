@@ -132,6 +132,7 @@ hawas ke pujari
 hijda
 hijra
 ja gand mara
+jda
 jhaat
 jhaat ke baal
 jhant
@@ -142,6 +143,7 @@ jhant ke pissu
 jhantu
 jhat lahergaya
 jhatoo
+jra
 kaala lund
 kaali kutti
 kamine
