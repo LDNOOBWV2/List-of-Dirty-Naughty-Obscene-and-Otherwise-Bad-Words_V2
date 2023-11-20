@@ -29,7 +29,7 @@ The next TODO will be to create some regular expressions for often-used spelling
 ### Languages Files Overview
 language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
- [Afrikaans](data/af.txt)	  | 283	| af |	Y|
+ [Afrikaans](data/af.txt)	  | 277	| af |	Y|
  [Albanian](data/sq.txt) 	  | 179	| sq |	Y|
  [Algerian](data/dz.txt) 	  |  86	| dz |	N|
  [Amharic](data/am.txt)     |  50 | am | N|
@@ -39,7 +39,7 @@ language | count | filename | in csv-file | remark
  [Azerbaijanian](data/az.txt)	     |  37	| az |	N|
  [Basque](data/eu.txt)		    |  48	| eu |	N|
  [Belorussian](data/be.txt)	| 118	| be |	N|
- [Bulgarian](data/bg.txt)	  | 338	| bg |	Y|
+ [Bulgarian](data/bg.txt)	  | 336	| bg |	Y|
  [Burmese](data/my.txt)		   |  81	| my |	N|
  [Cambodian](data/kh.txt)   | 132	| kh |	N|
  [Catalan](data/ca.txt)		   | 143	| ca |	Y|
@@ -49,10 +49,10 @@ language | count | filename | in csv-file | remark
  [Czech](data/cs.txt)		     | 243	| cs |	Y|
  [Danish](data/da.txt)		    | 185	| da |	Y|
  [Dutch](data/nl.txt)		     |1222	| nl |	Y|
- [English](data/en.txt)		   |8259	| en |	Y| various spelling variations
+ [English](data/en.txt)		   |8259	| en |	Y| various spelling variations, does not contain Spanish (es) words
  [Esperanto](data/eo.txt)	  |  50	| eo |	N|
  [Estonian](data/et.txt)	   | 174	| et |	Y|
- [Filipino](data/fil.txt)	  | 167	| fil|	Y|
+ [Filipino](data/fil.txt)	  | 165	| fil|	Y|
  [Finnish](data/fi.txt)		   | 317	| fi |	Y|
  [French](data/fr.txt)		    |3565	| fr |	Y| many spelling variations
  [Gaelic](data/gd.txt)		    |  88	| gd |	N|
