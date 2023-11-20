@@ -48,6 +48,7 @@ anaalridder
 anaalvandaal
 anderhalve man en een paardekop
 angsthaas
+anita
 apenkop
 apostaat
 armoedzaaier
@@ -316,6 +317,7 @@ gelddorstig
 geldwolf
 gemenerik
 gepeupel
+gerd
 gerimpelde kleibind
 geslachtsfaker
 gesmoes
@@ -642,7 +644,6 @@ lomperd
 lomperik
 loonslaaf
 lorejas
-loser
 luiaard
 luierik
 luilak
@@ -843,6 +844,7 @@ rat
 razen
 rectaalrecreant
 reet
+reet trappen			 voor zijn
 reet trappen, voor zijn
 reet-smoel
 reetatleet
