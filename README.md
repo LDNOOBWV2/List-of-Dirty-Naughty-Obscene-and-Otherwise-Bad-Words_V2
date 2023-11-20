@@ -103,9 +103,7 @@ language | count | filename | in csv-file | remark
  [Welsh](data/cy.txt)       | 169 | cy | Y|
  [Zulu](data/zu.txt)        | 115 | zu | N|
  [???](data/pih.txt)        |  14 | pih| N|
- [???](data/piy.txt)        |  13 | piy| N|://www.youswear.com/index.asp
-https://www.cs.cmu.edu/~biglou/resources
-https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/
+ [???](data/piy.txt)        |  13 | piy| N|
  
 ### Categories in *questionable_international_words.csv*
 The categories used are:
