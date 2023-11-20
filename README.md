@@ -29,7 +29,7 @@ The next TODO will be to create some regular expressions for often-used spelling
 ### Languages Files Overview
 language | count | filename | in csv-file | remark
 --- | --- | --- | --- | ---
- [Afrikaans](data/af.txt)   | 277 | af | Y|
+ [Afrikaans](data/af.txt)   | 256 | af | Y|
  [Albanian](data/sq.txt)    | 179 | sq | Y|
  [Algerian](data/dz.txt)    |  86 | dz | N|
  [Amharic](data/am.txt)     |  50 | am | N|
@@ -44,7 +44,7 @@ language | count | filename | in csv-file | remark
  [Cambodian](data/kh.txt)   | 132 | kh | N|
  [Catalan](data/ca.txt)     | 143 | ca | Y|
  [Cebuano](data/ceb.txt)    |  18 | ceb| N|
- [Chinese](data/zh.txt)     |1817 | zh | Y|
+ [Chinese](data/zh.txt)     |1811 | zh | Y|
  [Croatian](data/hr.txt)    | 267 | hr | Y|
  [Czech](data/cs.txt)       | 241 | cs | Y|
  [Danish](data/da.txt)      | 185 | da | Y|
@@ -54,52 +54,52 @@ language | count | filename | in csv-file | remark
  [Estonian](data/et.txt)    | 174 | et | Y|
  [Filipino](data/fil.txt)   | 165 | fil| Y|
  [Finnish](data/fi.txt)     | 317 | fi | Y|
- [French](data/fr.txt)      |3709 | fr | Y| many spelling variations
+ [French](data/fr.txt)      |3708 | fr | Y| many spelling variations
  [Gaelic](data/gd.txt)      |  88 | gd | N|
  [Galician](data/gl.txt)    |  74 | gl | N|
  [German](data/de.txt)      | 622 | de | Y|
- [Greek](data/el.txt)       | 249 | el | Y|
+ [Greek](data/el.txt)       | 247 | el | Y|
  [Hebrew](data/yid.txt)     | 173 | yid| N|
- [Hindi](data/hi.txt)       | 376 | hi | Y|
+ [Hindi](data/hi.txt)       | 375 | hi | Y|
  [Hungarian](data/hu.txt)   | 296 | hu | Y|
  [Icelandic](data/is.txt)   | 137 | is | Y|
  [Italian](data/it.txt)     |1755 | it | Y|
- [Indonesian](data/id.txt)  | 535 | id | Y|
+ [Indonesian](data/id.txt)  | 507 | id | Y|
  [Japanese](data/ja.txt)    | 468 | ja | Y| 
  [Kabyle](data/kab.txt)     |  22 | kab| N|
  [Klingon](data/tlh.txt)    |  33 | tlh| N|
- [Korean](data/ko.txt)      |3097 | ko | Y|
+ [Korean](data/ko.txt)      |3094 | ko | Y|
  [Latin](data/la.txt)       | 103 | la | N|
  [Latvian](data/lv.txt)     | 198 | lv | Y|
  [Lithuanian](data/lt.txt)  | 158 | lt | Y|
  [Macedonian](data/mk.txt)  | 192 | mk | N|
- [Malay](data/ms.txt)       | 204 | ms | Y|
+ [Malay](data/ms.txt)       | 201 | ms | Y|
  [Malayalam](data/ml.txt)   | 338 | ml | Y|
  [Maltese](data/mt.txt)     | 132 | mt | Y|
- [Maori](data/mi.txt)       |  59 | mi | Y|
+ [Maori](data/mi.txt)       |  58 | mi | Y|
  [Marathi](data/mr.txt)     |  95 | mr | Y|
  [Mongolian](data/mn.txt)   | 277 | mn | N|
  [Norwegian](data/no.txt)   | 171 | no | Y|
  [Persian](data/fa.txt)     | 629 | fa | N|
  [Polish](data/pl.txt)      |8971 | pl | Y| different grammatical variations
- [Portuguese](data/pt.txt)  | 581 | pt | Y| including Brasilian
+ [Portuguese](data/pt.txt)  | 575 | pt | Y| including Brasilian
  [Romanian](data/ro.txt)    | 290 | ro | Y|
  [Russian](data/ru.txt)     |4948 | ru | Y|
  [Samoan](data/sm.txt)      | 116 | sm | Y|
- [Serbian](data/sr.txt)     | 466 | sr | Y| sr_k & sr_l in csv file
+ [Serbian](data/sr.txt)     | 459 | sr | Y| sr_k & sr_l in csv file
  [Slovak](data/sk.txt)      | 586 | sk | Y|
  [Slovene](data/sl.txt)     | 167 | sl | Y|
  [Spanish](data/es.txt)     |1677 | es | Y| including Middle- and South American
- [Swedish](data/sv.txt)     | 246 | sv | Y|
+ [Swedish](data/sv.txt)     | 245 | sv | Y|
  [Tamil](data/ta.txt)       | 119 | ta | N|
  [Telugu](data/te.txt)      | 317 | te | Y|
  [Tetum](data/tet.txt)      |  11 | tet| N|
  [Thai](data/th.txt)        |1715 | th | Y|
  [Tongan](data/to.txt)      |  68 | to | N|
  [Turkish](data/tr.txt)     | 370 | tr | Y|
- [Ukrainian](data/uk.txt)   | 208 | uk | Y|
+ [Ukrainian](data/uk.txt)   | 205 | uk | Y|
  [Uzbek](data/uz.txt)       | 102 | uz | N|
- [Vietnamese](data/vi.txt)  | 798 | vi | Y|
+ [Vietnamese](data/vi.txt)  | 790 | vi | Y|
  [Welsh](data/cy.txt)       | 169 | cy | Y|
  [Zulu](data/zu.txt)        | 115 | zu | N|
  [???](data/pih.txt)        |  14 | pih| N|
