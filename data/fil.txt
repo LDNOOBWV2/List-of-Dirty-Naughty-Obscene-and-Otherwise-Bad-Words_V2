@@ -28,10 +28,8 @@ egoismo
 engot
 etits
 gaga
-gaga (female)
 gagi
 gago
-gago (male)
 ginahasa
 habal
 hayop
@@ -55,7 +53,7 @@ jakol
 jakolin mo ako
 kagaguhan
 kagang
-kainin mo yong pek pek ko.
+kainin mo yong pek pek ko
 kantot
 kantotan
 kantotero
