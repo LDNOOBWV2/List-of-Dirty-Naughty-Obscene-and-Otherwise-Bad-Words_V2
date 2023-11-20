@@ -1,6 +1,6 @@
 ade sto diaolo
 ai gamisou
-akka tin villa mou (cyprus dialect)
+akka tin villa mou
 ambalatos
 ante gamisou
 ante gamisou paliopousta
@@ -45,7 +45,7 @@ kavlomenos
 kolodaktilo
 kolos
 kolotripa
-kotsiros (cyprus dialect)
+kotsiros
 lougra
 malaka
 mastaria
