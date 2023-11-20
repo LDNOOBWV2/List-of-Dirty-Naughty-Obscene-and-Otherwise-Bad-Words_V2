@@ -18,7 +18,7 @@ The next TODO will be to create some regular expressions for often-used spelling
  - **utf-8** encoded
  - all words are **lowercase**
  - one expression per line
- - all words contained in the English "*en*" file are excluded in the other language files
+ - all words contained in the English "***en.txt***" file are **excluded** in the other language files
  - often used words where the classification as a profane word is doubtful there is a separate csv file
  - the csv-file is: [questionable_international_words.csv](questionable_international_words.csv)
  - separator is the comma "**,**"
