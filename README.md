@@ -49,7 +49,7 @@ language | count | filename | in csv-file | remark
  [Czech](data/cs.txt)		     | 243	| cs |	Y|
  [Danish](data/da.txt)		    | 185	| da |	Y|
  [Dutch](data/nl.txt)		     |1222	| nl |	Y|
- [English](data/en.txt)		   |8276	| en |	Y| various spelling variations
+ [English](data/en.txt)		   |8259	| en |	Y| various spelling variations
  [Esperanto](data/eo.txt)	  |  50	| eo |	N|
  [Estonian](data/et.txt)	   | 174	| et |	Y|
  [Filipino](data/fil.txt)	  | 167	| fil|	Y|
