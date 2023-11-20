@@ -1,12 +1,15 @@
 ## Sources of Words
-As mentioned in [README.md](README.md) the LDNOOBW List was the starting point of this collection of words and phrases:
+As mentioned in [README.md](README.md) the LDNOOBW list was the starting point of this collection of words and phrases:
  - https://github.com/ldnoobw/list-of-dirty-naughty-obscene-and-otherwise-bad-words with pull requests and open issues
 ####
-All the sources were checked for non-infamous words and debatable words found in many sources were put into the *questionable_international_words.csv* Checking sources continues, but the lists are not growing much anymore. They will be added once the results are cross-checked.
+All the sources were checked for non-infamous words and debatable words found in many sources were put into the [questionable_international_words.csv](questionable_international_words.csv).
+Checking sources continues, but the lists are not growing much anymore. They will be added once the results are cross-checked.
 ####
+ - https://data.world/sya/list-of-bad-words - Shutterstock lists
  - https://github.com/2Toad/Profanity/blob/master/src/data
  - https://github.com/Bruk3/obscenity-filter/blob/main/data
  - https://github.com/DivineOmega/is_offensive/blob/master/resources
+ - https://github.com/Eris-182/vn-badwords/blob/main/src/lib/lang
  - https://github.com/FriendshipKing/profanity_php/blob/master/languages
  - https://github.com/Gasegamer/super-profanity
  - https://github.com/RobertJGabriel/google-profanity-words-node-module/blob/master/lib
@@ -58,11 +61,13 @@ All the sources were checked for non-infamous words and debatable words found in
  - https://github.com/thisandagain/washyourmouthoutwithsoap/tree/develop/data
  - https://github.com/tiaanduplessis/afrikaans-bad-words/blob/master
  - https://github.com/tommasoc80/DALC/blob/master
+ - https://github.com/tural-ali/encycloDB/blob/master/Dirty%20Words
  - https://github.com/twin/go-away/blob/master
  - https://github.com/tylersustare/dart_bad_words/blob/main/bad_words/lib
  - https://github.com/uncharacteristically/badwordblocker/blob/main
  - https://github.com/valentinh/swear-words - Shutterstock list
  - https://github.com/vandie/isprofanity/tree/master/data
+ - https://github.com/web-mech/badwords-list/blob/master/lib
  - https://github.com/words/cuss
  - https://github.com/zacanger/profane-words/blob/master
  - https://www.cs.cmu.edu/~biglou/resources
