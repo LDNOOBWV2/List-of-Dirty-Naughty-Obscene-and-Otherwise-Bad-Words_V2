@@ -5,6 +5,7 @@ As mentioned in [README.md](README.md) the LDNOOBW list was the starting point o
 All the sources were checked for non-infamous words and debatable words found in many sources were put into the [questionable_international_words.csv](questionable_international_words.csv).
 Checking sources continues, but the lists are not growing much anymore. They will be added once the results are cross-checked.
 ####
+ - http://www.bannedwordlist.com/lists
  - https://data.world/sya/list-of-bad-words - Shutterstock lists
  - https://github.com/2Toad/Profanity/blob/master/src/data
  - https://github.com/Bruk3/obscenity-filter/blob/main/data
@@ -12,10 +13,14 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://github.com/Eris-182/vn-badwords/blob/main/src/lib/lang
  - https://github.com/FriendshipKing/profanity_php/blob/master/languages
  - https://github.com/Gasegamer/super-profanity
+ - https://github.com/MrMRVLS/sinhala-bad-words-list
  - https://github.com/RobertJGabriel/google-profanity-words-node-module/blob/master/lib
  - https://github.com/TheAdnan/profanity-filter/blob/master
  - https://github.com/Topener/no-profanity/blob/main/lib
+ - https://github.com/TwiN/go-away
+ - https://github.com/TylerSustare/dart_bad_words/blob/main/bad_words
  - https://github.com/WillStrohl/dnn-profanity/blob/master/Scripts
+ - https://github.com/alvations/expletives
  - https://github.com/alvations/expletives/tree/master/data
  - https://github.com/amirshnll/persian-swear-words
  - https://github.com/arandilopez/profanator/tree/master/config/dicts
@@ -26,9 +31,12 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://github.com/chennighan/FowlJS/blob/master/dist
  - https://github.com/chucknorris-io/swear-words - Shutterstock list
  - https://github.com/coffee-and-fun/google-profanity-words/tree/main/data
+ - https://github.com/dariusk/wordfilter
  - https://github.com/darwiin/french-badwords-list/blob/master/dist
+ - https://github.com/datatips/Google-profanity-words/blob/master
  - https://github.com/datatips/google-profanity-words
  - https://github.com/devXprite/profanity-cleaner/blob/main/src
+ - https://github.com/dikako/list_badword
  - https://github.com/dnozza/profanity-obfuscation/blob/main/resources
  - https://github.com/dsojevic/profanity-list/blob/main
  - https://github.com/elsowiny/badwordsfilter/blob/master/src
@@ -45,6 +53,7 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://github.com/pcpratheesh/go-censorword/blob/main/censor
  - https://github.com/pdrhlik/sweary/tree/master/data-raw/swear-word-lists
  - https://github.com/profanitas/abuse/blob/master/abuse
+ - https://github.com/qasimraheemids/badwords-list
  - https://github.com/reimertz/curse-words/blob/master
  - https://github.com/rodgeraraujo/profanity/blob/main/src/data
  - https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data
@@ -67,7 +76,9 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://github.com/uncharacteristically/badwordblocker/blob/main
  - https://github.com/valentinh/swear-words - Shutterstock list
  - https://github.com/vandie/isprofanity/tree/master/data
+ - https://github.com/web-mech/badwords-list
  - https://github.com/web-mech/badwords-list/blob/master/lib
+ - https://github.com/whomwah/language-timothy
  - https://github.com/words/cuss
  - https://github.com/zacanger/profane-words/blob/master
  - https://www.cs.cmu.edu/~biglou/resources
