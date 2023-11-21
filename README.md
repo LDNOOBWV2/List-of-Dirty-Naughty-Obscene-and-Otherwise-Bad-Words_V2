@@ -81,6 +81,8 @@ language | count | filename | in csv-file | remark
  [Mongolian](data/mn.txt)   | 277 | mn | N|
  [Norwegian](data/no.txt)   | 171 | no | Y|
  [Persian](data/fa.txt)     | 629 | fa | N|
+ [Pictrain-Norfolk](data/pih.txt) |  14 | pih| N|
+ [Piya-Kwonci](data/piy.txt)      |  13 | piy| N|
  [Polish](data/pl.txt)      |8971 | pl | Y| different grammatical variations
  [Portuguese](data/pt.txt)  | 575 | pt | Y| including Brasilian
  [Romanian](data/ro.txt)    | 290 | ro | Y|
@@ -102,9 +104,6 @@ language | count | filename | in csv-file | remark
  [Vietnamese](data/vi.txt)  | 790 | vi | Y|
  [Welsh](data/cy.txt)       | 169 | cy | Y|
  [Zulu](data/zu.txt)        | 115 | zu | N|
- [???](data/pih.txt)        |  14 | pih| N|
- [???](data/piy.txt)        |  13 | piy| N|
- 
 ### Categories in *questionable_international_words.csv*
 The categories used are:
  - **cul**: cultural differences
