@@ -77,12 +77,11 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://github.com/valentinh/swear-words - Shutterstock list
  - https://github.com/vandie/isprofanity/tree/master/data
  - https://github.com/web-mech/badwords-list
- - https://github.com/web-mech/badwords-list/blob/master/lib
  - https://github.com/whomwah/language-timothy
  - https://github.com/words/cuss
  - https://github.com/zacanger/profane-words/blob/master
  - https://www.cs.cmu.edu/~biglou/resources
- - https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/
+ - https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google
  - https://www.kaggle.com/datasets/nicapotato/bad-bad-words
  - https://www.thetraveltart.com/german-swear-words-slang-expletives
  - https://www.youswear.com/index.asp
