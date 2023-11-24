@@ -85,3 +85,7 @@ Checking sources continues, but the lists are not growing much anymore. They wil
  - https://www.kaggle.com/datasets/nicapotato/bad-bad-words
  - https://www.thetraveltart.com/german-swear-words-slang-expletives
  - https://www.youswear.com/index.asp
+####
+ - **Slang words from:**
+ - https://github.com/floft/leetspeak/blob/master/words/noslang.txt
+ - https://www.noslang.com
